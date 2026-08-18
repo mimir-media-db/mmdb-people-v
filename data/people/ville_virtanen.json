@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ville_virtanen",
+  "name": "Ville Virtanen",
+  "external_ids": {
+    "wikidata": "Q513212",
+    "imdb": "nm0899476"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}
