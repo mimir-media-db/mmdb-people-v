@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "p_vaclav_neuzil",
+    "name": "Václav Neužil",
+    "birth_year": 1979,
+    "path": "data/people/vaclav_neuzil.json"
+  },
+  {
+    "id": "p_veronica_llinas",
+    "name": "Verónica Llinás",
+    "birth_year": 1960,
+    "path": "data/people/veronica_llinas.json"
+  },
+  {
+    "id": "p_viktor_andriienko",
+    "name": "Viktor Andriienko",
+    "birth_year": 1959,
+    "path": "data/people/viktor_andriienko.json"
+  },
+  {
+    "id": "p_viliam_docolomansky",
+    "name": "Viliam Dočolomanský",
+    "birth_year": 1975,
+    "path": "data/people/viliam_docolomansky.json"
+  },
+  {
+    "id": "p_vladimir_javorsky",
+    "name": "Vladimír Javorský",
+    "birth_year": 1962,
+    "path": "data/people/vladimir_javorsky.json"
+  },
+  {
+    "id": "p_vladimir_lert",
+    "name": "Vladimir Lert",
+    "birth_year": 1979,
+    "path": "data/people/vladimir_lert.json"
+  },
+  {
+    "id": "p_vladimir_yepifantsev",
+    "name": "Vladimir Yepifantsev",
+    "birth_year": 1971,
+    "path": "data/people/vladimir_yepifantsev.json"
+  }
+]
