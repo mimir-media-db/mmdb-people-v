@@ -1,2 +1,3 @@
-# mmdb-people-v
-MMDB People — V
+# MMDB People — V
+
+People whose slug starts with 'v'.
