@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vera_gemma",
+  "name": "Vera Gemma",
+  "external_ids": {
+    "wikidata": "Q10389770",
+    "imdb": "nm0312576"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}
