@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_verica_nedeska",
+  "name": "Verica Nedeska",
+  "external_ids": {
+    "wikidata": "Q20564848",
+    "imdb": "nm1077497"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

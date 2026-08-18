@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_valentino_rossi",
+  "name": "Valentino Rossi",
+  "external_ids": {
+    "wikidata": "Q169814",
+    "imdb": "nm1387126"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}
