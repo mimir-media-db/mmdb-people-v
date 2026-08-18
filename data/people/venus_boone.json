@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_venus_boone",
+  "name": "Vénus Boone",
+  "external_ids": {
+    "wikidata": "Q3564158",
+    "imdb": "nm2106927"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

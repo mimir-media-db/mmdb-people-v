@@ -1,9 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_veronika_petrova",
-  "name": "Veronika Petrova",
+  "name": "Veronika Petrová",
   "external_ids": {
-    "wikidata": "Q139801358"
+    "wikidata": "Q103828622",
+    "imdb": "nm2237856"
   },
-  "last_updated": "2026-08-18"
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
 }
