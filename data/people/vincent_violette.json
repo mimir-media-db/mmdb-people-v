@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vincent_violette",
+  "name": "Vincent Violette",
+  "external_ids": {
+    "wikidata": "Q3559874",
+    "imdb": "nm0899232"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

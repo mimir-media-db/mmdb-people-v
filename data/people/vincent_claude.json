@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vincent_claude",
+  "name": "Vincent Claude",
+  "external_ids": {
+    "wikidata": "Q3559543",
+    "imdb": "nm2092373"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1998
+}

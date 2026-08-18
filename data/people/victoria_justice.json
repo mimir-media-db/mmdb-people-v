@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_victoria_justice",
+  "name": "Victoria Justice",
+  "external_ids": {
+    "wikidata": "Q200194",
+    "imdb": "nm1842439"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1993
+}
