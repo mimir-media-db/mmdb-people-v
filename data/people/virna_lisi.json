@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_virna_lisi",
+  "name": "Virna Lisi",
+  "external_ids": {
+    "wikidata": "Q106627",
+    "imdb": "nm0514059"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1936,
+  "death_year": 2014
+}

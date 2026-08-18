@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_valery_giscard_destaing",
+  "name": "Valéry Giscard d'Estaing",
+  "external_ids": {
+    "wikidata": "Q2124",
+    "imdb": "nm1105228"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1926,
+  "death_year": 2020
+}

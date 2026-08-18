@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_veeti_kallio",
+  "name": "Veeti Kallio",
+  "external_ids": {
+    "wikidata": "Q16299596",
+    "imdb": "nm0436023"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

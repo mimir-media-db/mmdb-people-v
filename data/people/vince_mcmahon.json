@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vince_mcmahon",
+  "name": "Vince McMahon",
+  "external_ids": {
+    "wikidata": "Q44430",
+    "imdb": "nm0573093"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}
