@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_viet_linh",
+  "name": "Việt Linh",
+  "external_ids": {
+    "wikidata": "Q7938090",
+    "imdb": "nm0896858"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}
