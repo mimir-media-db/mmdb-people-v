@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_val_avery",
+  "name": "Val Avery",
+  "external_ids": {
+    "wikidata": "Q470062",
+    "imdb": "nm0043088"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1924,
+  "death_year": 2009
+}

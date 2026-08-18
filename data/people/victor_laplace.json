@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_victor_laplace",
+  "name": "Víctor Laplace",
+  "external_ids": {
+    "wikidata": "Q2463840",
+    "imdb": "nm0487616"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

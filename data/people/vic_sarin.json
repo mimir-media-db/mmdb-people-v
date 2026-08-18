@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vic_sarin",
+  "name": "Vic Sarin",
+  "external_ids": {
+    "wikidata": "Q1647046",
+    "imdb": "nm0765225"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

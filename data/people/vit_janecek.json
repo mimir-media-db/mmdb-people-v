@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vit_janecek",
+  "name": "Vít Janeček",
+  "external_ids": {
+    "wikidata": "Q18641976",
+    "imdb": "nm0417434"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

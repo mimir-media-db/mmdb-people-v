@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vin_diesel",
+  "name": "Vin Diesel",
+  "external_ids": {
+    "wikidata": "Q178166",
+    "imdb": "nm0004874"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

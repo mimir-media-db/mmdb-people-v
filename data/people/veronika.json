@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_veronika",
+  "name": "Veronika",
+  "external_ids": {
+    "wikidata": "Q106506958",
+    "imdb": "nm11719937"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

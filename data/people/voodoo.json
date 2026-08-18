@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_voodoo",
+  "name": "Voodoo",
+  "external_ids": {
+    "wikidata": "Q2533384",
+    "imdb": "nm0903369"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}
