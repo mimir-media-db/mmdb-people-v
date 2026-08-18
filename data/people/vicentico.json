@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vicentico",
+  "name": "Vicentico",
+  "external_ids": {
+    "wikidata": "Q2474993",
+    "imdb": "nm0273223"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}
