@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vincent_gallo",
+  "name": "Vincent Gallo",
+  "external_ids": {
+    "wikidata": "Q362353",
+    "imdb": "nm0001252"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

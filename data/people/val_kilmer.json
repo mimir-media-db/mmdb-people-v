@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_val_kilmer",
+  "name": "Val Kilmer",
+  "external_ids": {
+    "wikidata": "Q191084",
+    "imdb": "nm0000174"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959,
+  "death_year": 2025
+}

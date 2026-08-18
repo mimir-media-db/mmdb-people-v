@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_vivek",
+  "name": "Vivek",
+  "external_ids": {
+    "wikidata": "Q312783",
+    "imdb": "nm0900266"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961,
+  "death_year": 2021
+}

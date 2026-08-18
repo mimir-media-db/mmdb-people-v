@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vanilla_ice",
+  "name": "Vanilla Ice",
+  "external_ids": {
+    "wikidata": "Q313578",
+    "imdb": "nm0406678"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

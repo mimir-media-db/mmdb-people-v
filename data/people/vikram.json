@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vikram",
+  "name": "Vikram",
+  "external_ids": {
+    "wikidata": "Q2363587",
+    "imdb": "nm1417314"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

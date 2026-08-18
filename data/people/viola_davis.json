@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_viola_davis",
+  "name": "Viola Davis",
+  "external_ids": {
+    "wikidata": "Q229181",
+    "imdb": "nm0205626"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

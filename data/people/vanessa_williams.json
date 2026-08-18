@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vanessa_williams",
+  "name": "Vanessa Williams",
+  "external_ids": {
+    "wikidata": "Q202801",
+    "imdb": "nm0001853"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

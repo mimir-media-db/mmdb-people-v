@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_victor_argo",
+  "name": "Victor Argo",
+  "external_ids": {
+    "wikidata": "Q973065",
+    "imdb": "nm0034519"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934,
+  "death_year": 2004
+}

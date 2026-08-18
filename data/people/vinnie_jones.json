@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vinnie_jones",
+  "name": "Vinnie Jones",
+  "external_ids": {
+    "wikidata": "Q296822",
+    "imdb": "nm0005068"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}
