@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_viscera",
+  "name": "Viscera",
+  "external_ids": {
+    "wikidata": "Q317374",
+    "imdb": "nm0292551"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971,
+  "death_year": 2014
+}
