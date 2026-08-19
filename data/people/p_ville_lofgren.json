@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ville_lofgren",
+  "name": "Ville Löfgren",
+  "external_ids": {
+    "wikidata": "Q123979945",
+    "imdb": "nm15248722"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2004
+}
