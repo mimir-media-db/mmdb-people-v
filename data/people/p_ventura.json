@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_ventura",
+  "name": "Ventura",
+  "external_ids": {
+    "wikidata": "Q108285801",
+    "imdb": "nm2375197"
+  },
+  "last_updated": "2026-08-19"
+}

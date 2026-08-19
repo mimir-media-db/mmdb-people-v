@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_valentino",
+  "name": "Valentino",
+  "external_ids": {
+    "wikidata": "Q379664",
+    "imdb": "nm0884347"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1932,
+  "death_year": 2026
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_vlasta",
+  "name": "Vlasta",
+  "external_ids": {
+    "wikidata": "Q139594496",
+    "imdb": "nm11616447"
+  },
+  "last_updated": "2026-08-19"
+}
