@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vincent_moon",
+  "name": "Vincent Moon",
+  "external_ids": {
+    "wikidata": "Q977743",
+    "imdb": "nm3038805"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

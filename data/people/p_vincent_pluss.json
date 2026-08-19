@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vincent_pluss",
+  "name": "Vincent Pluss",
+  "external_ids": {
+    "wikidata": "Q41799146",
+    "imdb": "nm1311039"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}
