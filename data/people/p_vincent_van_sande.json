@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vincent_van_sande",
+  "name": "Vincent Van Sande",
+  "external_ids": {
+    "wikidata": "Q3095534",
+    "imdb": "nm4234464"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
