@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_varante_soudjian",
+  "name": "Varante Soudjian",
+  "external_ids": {
+    "wikidata": "Q65953980",
+    "imdb": "nm1138210"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
