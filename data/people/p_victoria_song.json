@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_victoria_song",
+  "name": "Victoria Song",
+  "external_ids": {
+    "wikidata": "Q340123",
+    "imdb": "nm5033448"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
