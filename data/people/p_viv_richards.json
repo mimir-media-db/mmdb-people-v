@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_viv_richards",
+  "name": "Viv Richards",
+  "external_ids": {
+    "wikidata": "Q738016",
+    "imdb": "nm1675411"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}
