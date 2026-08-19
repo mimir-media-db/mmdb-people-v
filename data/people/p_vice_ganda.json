@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vice_ganda",
+  "name": "Vice Ganda",
+  "external_ids": {
+    "wikidata": "Q7925032",
+    "imdb": "nm2769248"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

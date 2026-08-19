@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_viet_trinh",
+  "name": "Việt Trinh",
+  "external_ids": {
+    "wikidata": "Q10832904",
+    "imdb": "nm0896862"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}
