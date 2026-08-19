@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vaclav_klaus",
+  "name": "Václav Klaus",
+  "external_ids": {
+    "wikidata": "Q57434",
+    "imdb": "nm1179585"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1941
+}
