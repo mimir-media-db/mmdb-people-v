@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_venu",
+  "name": "Venu",
+  "external_ids": {
+    "wikidata": "Q7920461",
+    "imdb": "nm0893447"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}
