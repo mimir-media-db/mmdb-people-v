@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_van_jones",
+  "name": "Van Jones",
+  "external_ids": {
+    "wikidata": "Q3742492",
+    "imdb": "nm4982783"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}
