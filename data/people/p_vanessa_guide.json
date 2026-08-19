@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vanessa_guide",
+  "name": "Vanessa Guide",
+  "external_ids": {
+    "wikidata": "Q3554532",
+    "imdb": "nm3053855"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}
