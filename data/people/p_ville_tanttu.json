@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ville_tanttu",
+  "name": "Ville Tanttu",
+  "external_ids": {
+    "wikidata": "Q108797180",
+    "imdb": "nm1626714"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966
+}
