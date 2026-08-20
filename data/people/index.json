@@ -802,6 +802,11 @@
     "path": "data/people/p_vadim_golishnikov.json"
   },
   {
+    "id": "p_vadim_golovanov",
+    "name": "Vadim Golovanov",
+    "path": "data/people/p_vadim_golovanov.json"
+  },
+  {
     "id": "p_vadim_jean",
     "name": "Vadim Jean",
     "birth_year": 1963,
@@ -923,6 +928,11 @@
     "id": "p_vadym_lialko",
     "name": "Vadym Lialko",
     "path": "data/people/p_vadym_lialko.json"
+  },
+  {
+    "id": "p_vadym_pereverzev",
+    "name": "Vadym Pereverzev",
+    "path": "data/people/p_vadym_pereverzev.json"
   },
   {
     "id": "p_vadym_shynkaryoyv",
@@ -4610,6 +4620,12 @@
     "path": "data/people/p_vanessa_portal.json"
   },
   {
+    "id": "p_vanessa_prager",
+    "name": "Vanessa Prager",
+    "birth_year": 1984,
+    "path": "data/people/p_vanessa_prager.json"
+  },
+  {
     "id": "p_vanessa_przada",
     "name": "Vanessa Przada",
     "path": "data/people/p_vanessa_przada.json"
@@ -6227,6 +6243,12 @@
     "name": "Veera Shankar Bairisetty",
     "birth_year": 1970,
     "path": "data/people/p_veera_shankar_bairisetty.json"
+  },
+  {
+    "id": "p_veera_tyhtila",
+    "name": "Veera Tyhtilä",
+    "birth_year": 1977,
+    "path": "data/people/p_veera_tyhtila.json"
   },
   {
     "id": "p_veera_w_vilo",
@@ -9451,6 +9473,12 @@
     "id": "p_victor_alli",
     "name": "Victor Alli",
     "path": "data/people/p_victor_alli.json"
+  },
+  {
+    "id": "p_victor_alonsoberbel",
+    "name": "Victor Alonso-Berbel",
+    "birth_year": 1992,
+    "path": "data/people/p_victor_alonsoberbel.json"
   },
   {
     "id": "p_victor_andres_trelles_turgeon",
@@ -12927,6 +12955,12 @@
     "path": "data/people/p_vilde_marie_zeiner.json"
   },
   {
+    "id": "p_vilde_tuv",
+    "name": "Vilde Tuv",
+    "birth_year": 1985,
+    "path": "data/people/p_vilde_tuv.json"
+  },
+  {
     "id": "p_vilem_dubnicka",
     "name": "Vilém Dubnička",
     "birth_year": 1976,
@@ -13008,6 +13042,12 @@
     "name": "Vili Matula",
     "birth_year": 1962,
     "path": "data/people/p_vili_matula.json"
+  },
+  {
+    "id": "p_viliam_beres",
+    "name": "Viliam Béreš",
+    "birth_year": 1981,
+    "path": "data/people/p_viliam_beres.json"
   },
   {
     "id": "p_viliam_conka",
@@ -17000,6 +17040,11 @@
     "id": "p_vitaliy_potapov",
     "name": "Vitaliy Potapov",
     "path": "data/people/p_vitaliy_potapov.json"
+  },
+  {
+    "id": "p_vitaliy_potruh",
+    "name": "Vitaliy Potruh",
+    "path": "data/people/p_vitaliy_potruh.json"
   },
   {
     "id": "p_vitaliy_rozstalnyi",
