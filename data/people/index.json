@@ -8169,6 +8169,11 @@
     "path": "data/people/p_vesamatti_loiri.json"
   },
   {
+    "id": "p_vesamatti_mattsson",
+    "name": "Vesa-Matti Mattsson",
+    "path": "data/people/p_vesamatti_mattsson.json"
+  },
+  {
     "id": "p_vesela_babinova",
     "name": "Vesela Babinova",
     "birth_year": 1989,
@@ -18334,6 +18339,12 @@
     "path": "data/people/p_vladimir_kulich.json"
   },
   {
+    "id": "p_vladimir_kunin",
+    "name": "Vladimir Kunin",
+    "birth_year": 1927,
+    "path": "data/people/p_vladimir_kunin.json"
+  },
+  {
     "id": "p_vladimir_kuznetsov",
     "name": "Vladimir Kuznetsov",
     "birth_year": 1943,
@@ -19013,6 +19024,12 @@
     "name": "Vladimir Valutsky",
     "birth_year": 1936,
     "path": "data/people/p_vladimir_valutsky.json"
+  },
+  {
+    "id": "p_vladimir_vasilyev",
+    "name": "Vladimir Vasilyev",
+    "birth_year": 1967,
+    "path": "data/people/p_vladimir_vasilyev.json"
   },
   {
     "id": "p_vladimir_vdovichenkov",
@@ -20006,6 +20023,12 @@
     "path": "data/people/p_volker_koepp.json"
   },
   {
+    "id": "p_volker_krappen",
+    "name": "Volker Krappen",
+    "birth_year": 1963,
+    "path": "data/people/p_volker_krappen.json"
+  },
+  {
     "id": "p_volker_lechtenbrink",
     "name": "Volker Lechtenbrink",
     "birth_year": 1944,
@@ -20269,6 +20292,12 @@
     "name": "Vondie Curtis-Hall",
     "birth_year": 1956,
     "path": "data/people/p_vondie_curtishall.json"
+  },
+  {
+    "id": "p_vonne_van_der_meer",
+    "name": "Vonne van der Meer",
+    "birth_year": 1952,
+    "path": "data/people/p_vonne_van_der_meer.json"
   },
   {
     "id": "p_vonneke_bonneke",
@@ -20603,6 +20632,12 @@
     "path": "data/people/p_vyacheslav_dusmukhametov.json"
   },
   {
+    "id": "p_vyacheslav_ganelin",
+    "name": "Vyacheslav Ganelin",
+    "birth_year": 1944,
+    "path": "data/people/p_vyacheslav_ganelin.json"
+  },
+  {
     "id": "p_vyacheslav_grishechkin",
     "name": "Vyacheslav Grishechkin",
     "birth_year": 1962,
@@ -20678,6 +20713,12 @@
     "name": "Vyacheslav Ross",
     "birth_year": 1966,
     "path": "data/people/p_vyacheslav_ross.json"
+  },
+  {
+    "id": "p_vyacheslav_rybakov",
+    "name": "Vyacheslav Rybakov",
+    "birth_year": 1954,
+    "path": "data/people/p_vyacheslav_rybakov.json"
   },
   {
     "id": "p_vyacheslav_shalevich",
