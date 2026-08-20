@@ -1360,10 +1360,22 @@
     "path": "data/people/p_valentin_areh.json"
   },
   {
+    "id": "p_valentin_azernikov",
+    "name": "Valentin Azernikov",
+    "birth_year": 1934,
+    "path": "data/people/p_valentin_azernikov.json"
+  },
+  {
     "id": "p_valentin_bukin",
     "name": "Valentin Bukin",
     "birth_year": 1942,
     "path": "data/people/p_valentin_bukin.json"
+  },
+  {
+    "id": "p_valentin_chernykh",
+    "name": "Valentin Chernykh",
+    "birth_year": 1935,
+    "path": "data/people/p_valentin_chernykh.json"
   },
   {
     "id": "p_valentin_enache",
@@ -1678,6 +1690,12 @@
     "name": "Valentina de Angelis",
     "birth_year": 1989,
     "path": "data/people/p_valentina_de_angelis.json"
+  },
+  {
+    "id": "p_valentina_dimitrova_radinska",
+    "name": "Valentina Dimitrova Radinska",
+    "birth_year": 1951,
+    "path": "data/people/p_valentina_dimitrova_radinska.json"
   },
   {
     "id": "p_valentina_fago",
@@ -5379,6 +5397,12 @@
     "name": "Vasily Shevtsov",
     "birth_year": 1975,
     "path": "data/people/p_vasily_shevtsov.json"
+  },
+  {
+    "id": "p_vasily_shukshin",
+    "name": "Vasily Shukshin",
+    "birth_year": 1929,
+    "path": "data/people/p_vasily_shukshin.json"
   },
   {
     "id": "p_vasily_sigarev",
@@ -9599,6 +9623,11 @@
     "path": "data/people/p_victor_postiglione.json"
   },
   {
+    "id": "p_victor_pozas",
+    "name": "Victor Pozas",
+    "path": "data/people/p_victor_pozas.json"
+  },
+  {
     "id": "p_victor_prieto",
     "name": "Víctor Prieto",
     "birth_year": 2001,
@@ -9637,6 +9666,12 @@
     "name": "Victor Rasuk",
     "birth_year": 1984,
     "path": "data/people/p_victor_rasuk.json"
+  },
+  {
+    "id": "p_victor_ratnayake",
+    "name": "Victor Ratnayake",
+    "birth_year": 1942,
+    "path": "data/people/p_victor_ratnayake.json"
   },
   {
     "id": "p_victor_rebengiuc",
@@ -11021,6 +11056,12 @@
     "path": "data/people/p_vijay_suthar.json"
   },
   {
+    "id": "p_vijay_tendulkar",
+    "name": "Vijay Tendulkar",
+    "birth_year": 1928,
+    "path": "data/people/p_vijay_tendulkar.json"
+  },
+  {
     "id": "p_vijay_varma",
     "name": "Vijay Varma",
     "birth_year": 1986,
@@ -11852,6 +11893,12 @@
     "name": "Viktor Smirnov",
     "birth_year": 1945,
     "path": "data/people/p_viktor_smirnov.json"
+  },
+  {
+    "id": "p_viktor_sologub",
+    "name": "Viktor Sologub",
+    "birth_year": 1957,
+    "path": "data/people/p_viktor_sologub.json"
   },
   {
     "id": "p_viktor_solovyov",
@@ -12902,6 +12949,12 @@
     "id": "p_vince_sweeney",
     "name": "Vince Sweeney",
     "path": "data/people/p_vince_sweeney.json"
+  },
+  {
+    "id": "p_vince_tempera",
+    "name": "Vince Tempera",
+    "birth_year": 1946,
+    "path": "data/people/p_vince_tempera.json"
   },
   {
     "id": "p_vince_tycer",
@@ -16473,6 +16526,12 @@
     "path": "data/people/p_vittorio_congia.json"
   },
   {
+    "id": "p_vittorio_cosma",
+    "name": "Vittorio Cosma",
+    "birth_year": 1965,
+    "path": "data/people/p_vittorio_cosma.json"
+  },
+  {
     "id": "p_vittorio_cottafavi",
     "name": "Vittorio Cottafavi",
     "birth_year": 1914,
@@ -18860,6 +18919,12 @@
     "path": "data/people/p_vladimir_valenta.json"
   },
   {
+    "id": "p_vladimir_valutsky",
+    "name": "Vladimir Valutsky",
+    "birth_year": 1936,
+    "path": "data/people/p_vladimir_valutsky.json"
+  },
+  {
     "id": "p_vladimir_vdovichenkov",
     "name": "Vladimir Vdovichenkov",
     "birth_year": 1971,
@@ -19825,6 +19890,12 @@
     "name": "Volker Einrauch",
     "birth_year": 1949,
     "path": "data/people/p_volker_einrauch.json"
+  },
+  {
+    "id": "p_volker_engel",
+    "name": "Volker Engel",
+    "birth_year": 1965,
+    "path": "data/people/p_volker_engel.json"
   },
   {
     "id": "p_volker_heymann",
