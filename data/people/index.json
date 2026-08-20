@@ -952,6 +952,12 @@
     "path": "data/people/p_vahagn_khachatryan.json"
   },
   {
+    "id": "p_vahan_artsruni",
+    "name": "Vahan Artsruni",
+    "birth_year": 1965,
+    "path": "data/people/p_vahan_artsruni.json"
+  },
+  {
     "id": "p_vahan_stepanyan",
     "name": "Vahan Stepanyan",
     "birth_year": 1962,
@@ -5717,6 +5723,11 @@
     "path": "data/people/p_vasu_vikram.json"
   },
   {
+    "id": "p_vasudhorn_piyaromna",
+    "name": "Vasudhorn Piyaromna",
+    "path": "data/people/p_vasudhorn_piyaromna.json"
+  },
+  {
     "id": "p_vasuki_vaibhav",
     "name": "Vasuki Vaibhav",
     "birth_year": 1992,
@@ -10002,6 +10013,11 @@
     "path": "data/people/p_victor_rivers.json"
   },
   {
+    "id": "p_victor_saint_macary",
+    "name": "Victor Saint Macary",
+    "path": "data/people/p_victor_saint_macary.json"
+  },
+  {
     "id": "p_victor_salva",
     "name": "Victor Salva",
     "birth_year": 1958,
@@ -10058,6 +10074,12 @@
     "name": "Victor Spinetti",
     "birth_year": 1929,
     "path": "data/people/p_victor_spinetti.json"
+  },
+  {
+    "id": "p_victor_stoyanov",
+    "name": "Victor Stoyanov",
+    "birth_year": 1976,
+    "path": "data/people/p_victor_stoyanov.json"
   },
   {
     "id": "p_victor_teran",
@@ -11287,6 +11309,11 @@
     "path": "data/people/p_vijay_kumar_konda.json"
   },
   {
+    "id": "p_vijay_kumar_mishra",
+    "name": "Vijay Kumar Mishra",
+    "path": "data/people/p_vijay_kumar_mishra.json"
+  },
+  {
     "id": "p_vijay_kumar_singh",
     "name": "Vijay Kumar Singh",
     "birth_year": 1950,
@@ -12154,6 +12181,12 @@
     "path": "data/people/p_viktor_pryduvalov.json"
   },
   {
+    "id": "p_viktor_rakonczai",
+    "name": "Viktor Rakonczai",
+    "birth_year": 1976,
+    "path": "data/people/p_viktor_rakonczai.json"
+  },
+  {
     "id": "p_viktor_savic",
     "name": "Viktor Savić",
     "birth_year": 1983,
@@ -12924,6 +12957,12 @@
     "name": "Vilmer Trier Brøgger",
     "birth_year": 2001,
     "path": "data/people/p_vilmer_trier_brgger.json"
+  },
+  {
+    "id": "p_vilmos_kondor",
+    "name": "Vilmos Kondor",
+    "birth_year": 1953,
+    "path": "data/people/p_vilmos_kondor.json"
   },
   {
     "id": "p_vilmos_mendelenyi",
@@ -15633,6 +15672,12 @@
     "path": "data/people/p_virgil_widrich.json"
   },
   {
+    "id": "p_virgil_williams",
+    "name": "Virgil Williams",
+    "birth_year": 1949,
+    "path": "data/people/p_virgil_williams.json"
+  },
+  {
     "id": "p_virgile_bramly",
     "name": "Virgile Bramly",
     "birth_year": 1980,
@@ -16290,6 +16335,11 @@
     "id": "p_visvesh_singh_sehrawat",
     "name": "Visvesh Singh Sehrawat",
     "path": "data/people/p_visvesh_singh_sehrawat.json"
+  },
+  {
+    "id": "p_viswajith_c_t",
+    "name": "Viswajith C T",
+    "path": "data/people/p_viswajith_c_t.json"
   },
   {
     "id": "p_viswanath",
@@ -18078,6 +18128,12 @@
     "path": "data/people/p_vladi.json"
   },
   {
+    "id": "p_vladi_kirov",
+    "name": "Vladi Kirov",
+    "birth_year": 1949,
+    "path": "data/people/p_vladi_kirov.json"
+  },
+  {
     "id": "p_vladica_kostic",
     "name": "Vladica Kostic",
     "birth_year": 1985,
@@ -19336,6 +19392,12 @@
     "path": "data/people/p_vladimir_strnisko.json"
   },
   {
+    "id": "p_vladimir_sverdlovashkenazy",
+    "name": "Vladimir Sverdlov-Ashkenazy",
+    "birth_year": 1976,
+    "path": "data/people/p_vladimir_sverdlovashkenazy.json"
+  },
+  {
     "id": "p_vladimir_svetiev",
     "name": "Vladimir Svetiev",
     "birth_year": 1945,
@@ -19632,6 +19694,12 @@
     "name": "Vladislav Abashin",
     "birth_year": 1975,
     "path": "data/people/p_vladislav_abashin.json"
+  },
+  {
+    "id": "p_vladislav_delay",
+    "name": "Vladislav Delay",
+    "birth_year": 1975,
+    "path": "data/people/p_vladislav_delay.json"
   },
   {
     "id": "p_vladislav_demchenko",
@@ -20275,6 +20343,12 @@
     "path": "data/people/p_vojtech_hajek.json"
   },
   {
+    "id": "p_vojtech_havel",
+    "name": "Vojtěch Havel",
+    "birth_year": 1962,
+    "path": "data/people/p_vojtech_havel.json"
+  },
+  {
     "id": "p_vojtech_hrabak",
     "name": "Vojtěch Hrabák",
     "birth_year": 1997,
@@ -20453,6 +20527,12 @@
     "id": "p_volkan_uce",
     "name": "Volkan Üce",
     "path": "data/people/p_volkan_uce.json"
+  },
+  {
+    "id": "p_volker_a_zahn",
+    "name": "Volker A. Zahn",
+    "birth_year": 1961,
+    "path": "data/people/p_volker_a_zahn.json"
   },
   {
     "id": "p_volker_bruch",
@@ -20689,6 +20769,12 @@
     "id": "p_volodymyr_lutskyi",
     "name": "Volodymyr Lutskyi",
     "path": "data/people/p_volodymyr_lutskyi.json"
+  },
+  {
+    "id": "p_volodymyr_nahornyi",
+    "name": "Volodymyr Nahornyi",
+    "birth_year": 1978,
+    "path": "data/people/p_volodymyr_nahornyi.json"
   },
   {
     "id": "p_volodymyr_nikolaienko",
