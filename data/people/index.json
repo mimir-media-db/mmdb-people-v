@@ -3079,6 +3079,11 @@
     "path": "data/people/p_valerii_kokura.json"
   },
   {
+    "id": "p_valerii_puzik",
+    "name": "Valerii Puzik",
+    "path": "data/people/p_valerii_puzik.json"
+  },
+  {
     "id": "p_valeriia_hukova",
     "name": "Valeriia Hukova",
     "path": "data/people/p_valeriia_hukova.json"
@@ -9069,6 +9074,11 @@
     "path": "data/people/p_vickie_bak_laursen.json"
   },
   {
+    "id": "p_vickie_curtis",
+    "name": "Vickie Curtis",
+    "path": "data/people/p_vickie_curtis.json"
+  },
+  {
     "id": "p_vickie_eng",
     "name": "Vickie Eng",
     "path": "data/people/p_vickie_eng.json"
@@ -13484,6 +13494,12 @@
     "path": "data/people/p_vince_vouyer.json"
   },
   {
+    "id": "p_vince_welch",
+    "name": "Vince Welch",
+    "birth_year": 1963,
+    "path": "data/people/p_vince_welch.json"
+  },
+  {
     "id": "p_vincent_alexander_sulik",
     "name": "Vincent Alexander Šulík",
     "path": "data/people/p_vincent_alexander_sulik.json"
@@ -16739,6 +16755,11 @@
     "name": "Vitalii Vorkhlik",
     "birth_year": 1977,
     "path": "data/people/p_vitalii_vorkhlik.json"
+  },
+  {
+    "id": "p_vitalii_zahoruiko",
+    "name": "Vitalii Zahoruiko",
+    "path": "data/people/p_vitalii_zahoruiko.json"
   },
   {
     "id": "p_vitalina_bibliv",
