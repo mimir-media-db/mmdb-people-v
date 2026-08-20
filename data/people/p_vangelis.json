@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_vangelis",
+  "name": "Vangelis",
+  "external_ids": {
+    "wikidata": "Q153172",
+    "imdb": "nm0006331"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1943,
+  "death_year": 2022
+}
