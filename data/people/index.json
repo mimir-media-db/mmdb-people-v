@@ -17194,6 +17194,12 @@
     "path": "data/people/p_vitezslav_jandak.json"
   },
   {
+    "id": "p_vitezslava_kapralova",
+    "name": "Vítězslava Kaprálová",
+    "birth_year": 1915,
+    "path": "data/people/p_vitezslava_kapralova.json"
+  },
+  {
     "id": "p_vithaya_pansringarm",
     "name": "Vithaya Pansringarm",
     "birth_year": 1959,
