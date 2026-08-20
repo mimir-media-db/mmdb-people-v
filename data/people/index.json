@@ -940,6 +940,12 @@
     "path": "data/people/p_vagif_mustafayev.json"
   },
   {
+    "id": "p_vahagn_hayrapetyan",
+    "name": "Vahagn Hayrapetyan",
+    "birth_year": 1968,
+    "path": "data/people/p_vahagn_hayrapetyan.json"
+  },
+  {
     "id": "p_vahagn_khachatryan",
     "name": "Vahagn Khachatryan",
     "birth_year": 1959,
@@ -1126,6 +1132,12 @@
     "name": "Väino Laes",
     "birth_year": 1951,
     "path": "data/people/p_vaino_laes.json"
+  },
+  {
+    "id": "p_vaino_linna",
+    "name": "Väinö Linna",
+    "birth_year": 1920,
+    "path": "data/people/p_vaino_linna.json"
   },
   {
     "id": "p_vaino_puura",
@@ -3101,6 +3113,12 @@
     "name": "Valerio Nicolosi",
     "birth_year": 1983,
     "path": "data/people/p_valerio_nicolosi.json"
+  },
+  {
+    "id": "p_valerio_vigliar",
+    "name": "Valerio Vigliar",
+    "birth_year": 1976,
+    "path": "data/people/p_valerio_vigliar.json"
   },
   {
     "id": "p_valerio_zanoli",
@@ -5840,6 +5858,12 @@
     "path": "data/people/p_ved_redic.json"
   },
   {
+    "id": "p_vedala_hemachandra",
+    "name": "Vedala Hemachandra",
+    "birth_year": 1988,
+    "path": "data/people/p_vedala_hemachandra.json"
+  },
+  {
     "id": "p_vedang_raina",
     "name": "Vedang Raina",
     "birth_year": 2000,
@@ -6111,6 +6135,12 @@
     "name": "Veit Stübner",
     "birth_year": 1953,
     "path": "data/people/p_veit_stubner.json"
+  },
+  {
+    "id": "p_vekeana_dhillon",
+    "name": "Vekeana Dhillon",
+    "birth_year": 1970,
+    "path": "data/people/p_vekeana_dhillon.json"
   },
   {
     "id": "p_vela_ramamoorthy",
@@ -7185,6 +7215,12 @@
     "id": "p_verneri_tinkanen",
     "name": "Verneri Tinkanen",
     "path": "data/people/p_verneri_tinkanen.json"
+  },
+  {
+    "id": "p_vernon_chatman",
+    "name": "Vernon Chatman",
+    "birth_year": 1972,
+    "path": "data/people/p_vernon_chatman.json"
   },
   {
     "id": "p_vernon_davis",
@@ -8536,6 +8572,12 @@
     "path": "data/people/p_vic_chao.json"
   },
   {
+    "id": "p_vic_chesnutt",
+    "name": "Vic Chesnutt",
+    "birth_year": 1964,
+    "path": "data/people/p_vic_chesnutt.json"
+  },
+  {
     "id": "p_vic_chou",
     "name": "Vic Chou",
     "birth_year": 1981,
@@ -9507,6 +9549,12 @@
     "path": "data/people/p_victor_lau.json"
   },
   {
+    "id": "p_victor_le_masne",
+    "name": "Victor Le Masne",
+    "birth_year": 1982,
+    "path": "data/people/p_victor_le_masne.json"
+  },
+  {
     "id": "p_victor_levin",
     "name": "Victor Levin",
     "path": "data/people/p_victor_levin.json"
@@ -9663,6 +9711,12 @@
     "name": "Victor Ortiz",
     "birth_year": 1987,
     "path": "data/people/p_victor_ortiz.json"
+  },
+  {
+    "id": "p_victor_ostrovsky",
+    "name": "Victor Ostrovsky",
+    "birth_year": 1949,
+    "path": "data/people/p_victor_ostrovsky.json"
   },
   {
     "id": "p_victor_osuagwu",
@@ -13587,6 +13641,12 @@
     "name": "Vincent Kok",
     "birth_year": 1965,
     "path": "data/people/p_vincent_kok.json"
+  },
+  {
+    "id": "p_vincent_koreman",
+    "name": "Vincent Koreman",
+    "birth_year": 1971,
+    "path": "data/people/p_vincent_koreman.json"
   },
   {
     "id": "p_vincent_kruger",
@@ -18321,6 +18381,12 @@
     "path": "data/people/p_vladimir_kilburg.json"
   },
   {
+    "id": "p_vladimir_kobekin",
+    "name": "Vladimir Kobekin",
+    "birth_year": 1947,
+    "path": "data/people/p_vladimir_kobekin.json"
+  },
+  {
     "id": "p_vladimir_kobielsky",
     "name": "Vladimír Kobielsky",
     "birth_year": 1975,
@@ -19720,6 +19786,12 @@
     "path": "data/people/p_vlastimil_venclik.json"
   },
   {
+    "id": "p_vlastimil_vondruska",
+    "name": "Vlastimil Vondruška",
+    "birth_year": 1955,
+    "path": "data/people/p_vlastimil_vondruska.json"
+  },
+  {
     "id": "p_vlastimil_zavrel",
     "name": "Vlastimil Zavřel",
     "birth_year": 1954,
@@ -20376,6 +20448,11 @@
     "name": "Volodymyr Zelenskyy",
     "birth_year": 1978,
     "path": "data/people/p_volodymyr_zelenskyy.json"
+  },
+  {
+    "id": "p_volodymyr_zuyev",
+    "name": "Volodymyr Zuyev",
+    "path": "data/people/p_volodymyr_zuyev.json"
   },
   {
     "id": "p_volodyslav_mokhnach",
