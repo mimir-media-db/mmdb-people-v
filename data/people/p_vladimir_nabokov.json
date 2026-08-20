@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_vladimir_nabokov",
+  "name": "Vladimir Nabokov",
+  "external_ids": {
+    "wikidata": "Q36591",
+    "imdb": "nm0618603"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1899,
+  "death_year": 1977
+}
