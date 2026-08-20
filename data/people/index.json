@@ -2315,6 +2315,12 @@
     "path": "data/people/p_valeria_golino.json"
   },
   {
+    "id": "p_valeria_hofmann",
+    "name": "Valeria Hofmann",
+    "birth_year": 1987,
+    "path": "data/people/p_valeria_hofmann.json"
+  },
+  {
     "id": "p_valeria_kalchenko",
     "name": "Valeria Kalchenko",
     "path": "data/people/p_valeria_kalchenko.json"
@@ -3904,6 +3910,12 @@
     "path": "data/people/p_van_nhu_cuong.json"
   },
   {
+    "id": "p_van_robichaux",
+    "name": "Van Robichaux",
+    "birth_year": 1984,
+    "path": "data/people/p_van_robichaux.json"
+  },
+  {
     "id": "p_van_son",
     "name": "Vân Sơn",
     "birth_year": 1961,
@@ -4626,6 +4638,12 @@
     "name": "Vanessa Scalera",
     "birth_year": 1977,
     "path": "data/people/p_vanessa_scalera.json"
+  },
+  {
+    "id": "p_vanessa_schneider",
+    "name": "Vanessa Schneider",
+    "birth_year": 1968,
+    "path": "data/people/p_vanessa_schneider.json"
   },
   {
     "id": "p_vanessa_seward",
@@ -7831,6 +7849,11 @@
     "path": "data/people/p_veronica_yip.json"
   },
   {
+    "id": "p_veronica_zacco",
+    "name": "Veronica Zacco",
+    "path": "data/people/p_veronica_zacco.json"
+  },
+  {
     "id": "p_veronika",
     "name": "Veronika",
     "birth_year": 1999,
@@ -8403,6 +8426,11 @@
     "path": "data/people/p_veronique_volta.json"
   },
   {
+    "id": "p_veronique_wuthrich",
+    "name": "Véronique Wüthrich",
+    "path": "data/people/p_veronique_wuthrich.json"
+  },
+  {
     "id": "p_veroushka_knoge",
     "name": "Veroushka Knoge",
     "birth_year": 1952,
@@ -8562,6 +8590,11 @@
     "name": "Vespa Vasic",
     "birth_year": 1991,
     "path": "data/people/p_vespa_vasic.json"
+  },
+  {
+    "id": "p_vessel",
+    "name": "Vessel",
+    "path": "data/people/p_vessel.json"
   },
   {
     "id": "p_vesta_matulyte",
@@ -10141,6 +10174,11 @@
     "path": "data/people/p_victor_salva.json"
   },
   {
+    "id": "p_victor_sanchez_rodriguez",
+    "name": "Víctor Sánchez Rodríguez",
+    "path": "data/people/p_victor_sanchez_rodriguez.json"
+  },
+  {
     "id": "p_victor_santa_maria",
     "name": "Víctor Santa María",
     "birth_year": 1965,
@@ -10840,6 +10878,12 @@
     "id": "p_victoria_v_cruz",
     "name": "Victoria V. Cruz",
     "path": "data/people/p_victoria_v_cruz.json"
+  },
+  {
+    "id": "p_victoria_vazquez",
+    "name": "Victoria Vázquez",
+    "birth_year": 1973,
+    "path": "data/people/p_victoria_vazquez.json"
   },
   {
     "id": "p_victoria_vellopoulou",
@@ -12128,6 +12172,12 @@
     "path": "data/people/p_viktor_friberg.json"
   },
   {
+    "id": "p_viktor_gallandi",
+    "name": "Viktor Gallandi",
+    "birth_year": 1988,
+    "path": "data/people/p_viktor_gallandi.json"
+  },
+  {
     "id": "p_viktor_giacobbo",
     "name": "Viktor Giacobbo",
     "birth_year": 1952,
@@ -12508,6 +12558,12 @@
     "name": "Viktor Zavadil",
     "birth_year": 1992,
     "path": "data/people/p_viktor_zavadil.json"
+  },
+  {
+    "id": "p_viktor_zaytsev",
+    "name": "Viktor Zaytsev",
+    "birth_year": 1951,
+    "path": "data/people/p_viktor_zaytsev.json"
   },
   {
     "id": "p_viktor_zhdanov",
@@ -18186,6 +18242,11 @@
     "path": "data/people/p_vlad_dragulin.json"
   },
   {
+    "id": "p_vlad_dudko",
+    "name": "Vlad Dudko",
+    "path": "data/people/p_vlad_dudko.json"
+  },
+  {
     "id": "p_vlad_ionut_popescu",
     "name": "Vlad Ionuț Popescu",
     "path": "data/people/p_vlad_ionut_popescu.json"
@@ -19392,6 +19453,12 @@
     "name": "Vladimir Pozner",
     "birth_year": 1934,
     "path": "data/people/p_vladimir_pozner.json"
+  },
+  {
+    "id": "p_vladimir_presnyakov",
+    "name": "Vladimir Presnyakov",
+    "birth_year": 1974,
+    "path": "data/people/p_vladimir_presnyakov.json"
   },
   {
     "id": "p_vladimir_presnyakov_jr",
@@ -21018,6 +21085,12 @@
     "path": "data/people/p_volodymyr_nikolaienko.json"
   },
   {
+    "id": "p_volodymyr_ostapchuk",
+    "name": "Volodymyr Ostapchuk",
+    "birth_year": 1984,
+    "path": "data/people/p_volodymyr_ostapchuk.json"
+  },
+  {
     "id": "p_volodymyr_rashchuk",
     "name": "Volodymyr Rashchuk",
     "path": "data/people/p_volodymyr_rashchuk.json"
@@ -21059,6 +21132,11 @@
     "name": "Volodymyr Yatsenko",
     "birth_year": 1977,
     "path": "data/people/p_volodymyr_yatsenko.json"
+  },
+  {
+    "id": "p_volodymyr_yeshkilev",
+    "name": "Volodymyr Yeshkilev",
+    "path": "data/people/p_volodymyr_yeshkilev.json"
   },
   {
     "id": "p_volodymyr_zadniprovskyi",
