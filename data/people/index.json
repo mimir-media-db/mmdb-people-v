@@ -2072,6 +2072,11 @@
     "path": "data/people/p_valentine_stach.json"
   },
   {
+    "id": "p_valentine_traclet",
+    "name": "Valentine Traclet",
+    "path": "data/people/p_valentine_traclet.json"
+  },
+  {
     "id": "p_valentine_varela",
     "name": "Valentine Varela",
     "birth_year": 1965,
@@ -4663,6 +4668,12 @@
     "path": "data/people/p_vanessa_spencer.json"
   },
   {
+    "id": "p_vanessa_springora",
+    "name": "Vanessa Springora",
+    "birth_year": 1972,
+    "path": "data/people/p_vanessa_springora.json"
+  },
+  {
     "id": "p_vanessa_szamuhelova",
     "name": "Vanessa Szamuhelová",
     "path": "data/people/p_vanessa_szamuhelova.json"
@@ -5267,6 +5278,11 @@
     "path": "data/people/p_varun_sharma.json"
   },
   {
+    "id": "p_varun_sunil",
+    "name": "Varun Sunil",
+    "path": "data/people/p_varun_sunil.json"
+  },
+  {
     "id": "p_varun_tej",
     "name": "Varun Tej",
     "birth_year": 1990,
@@ -5617,6 +5633,12 @@
     "name": "Vasily Kortukov",
     "birth_year": 1960,
     "path": "data/people/p_vasily_kortukov.json"
+  },
+  {
+    "id": "p_vasily_kutsenko",
+    "name": "Vasily Kutsenko",
+    "birth_year": 1984,
+    "path": "data/people/p_vasily_kutsenko.json"
   },
   {
     "id": "p_vasily_lanovoy",
@@ -8699,6 +8721,11 @@
     "path": "data/people/p_viacheslav_merzlikin.json"
   },
   {
+    "id": "p_viacheslav_ostrovtsev",
+    "name": "Viacheslav Ostrovtsev",
+    "path": "data/people/p_viacheslav_ostrovtsev.json"
+  },
+  {
     "id": "p_vianney",
     "name": "Vianney",
     "birth_year": 1991,
@@ -10506,6 +10533,11 @@
     "path": "data/people/p_victoria_galardi.json"
   },
   {
+    "id": "p_victoria_gregory",
+    "name": "Victoria Gregory",
+    "path": "data/people/p_victoria_gregory.json"
+  },
+  {
     "id": "p_victoria_guerra",
     "name": "Victória Guerra",
     "birth_year": 1989,
@@ -11945,6 +11977,12 @@
     "path": "data/people/p_vikram_malhotra.json"
   },
   {
+    "id": "p_vikram_montrose",
+    "name": "Vikram Montrose",
+    "birth_year": 1987,
+    "path": "data/people/p_vikram_montrose.json"
+  },
+  {
     "id": "p_vikram_prabhu",
     "name": "Vikram Prabhu",
     "birth_year": 1986,
@@ -13023,6 +13061,12 @@
     "path": "data/people/p_ville_keskila.json"
   },
   {
+    "id": "p_ville_langfeldt",
+    "name": "Ville Langfeldt",
+    "birth_year": 1982,
+    "path": "data/people/p_ville_langfeldt.json"
+  },
+  {
     "id": "p_ville_lofgren",
     "name": "Ville Löfgren",
     "birth_year": 2004,
@@ -14073,6 +14117,12 @@
     "id": "p_vincent_jouan",
     "name": "Vincent Jouan",
     "path": "data/people/p_vincent_jouan.json"
+  },
+  {
+    "id": "p_vincent_juillet",
+    "name": "Vincent Juillet",
+    "birth_year": 1952,
+    "path": "data/people/p_vincent_juillet.json"
   },
   {
     "id": "p_vincent_kartheiser",
@@ -21667,6 +21717,12 @@
     "name": "Vyacheslav Zlatopolskiy",
     "birth_year": 1978,
     "path": "data/people/p_vyacheslav_zlatopolskiy.json"
+  },
+  {
+    "id": "p_vyacheslav_zub",
+    "name": "Vyacheslav Zub",
+    "birth_year": 1987,
+    "path": "data/people/p_vyacheslav_zub.json"
   },
   {
     "id": "p_vygintas_kisevicius",
