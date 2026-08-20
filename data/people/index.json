@@ -153,6 +153,12 @@
     "path": "data/people/p_v_priya.json"
   },
   {
+    "id": "p_v_r_gopalakrishnan",
+    "name": "V. R. Gopalakrishnan",
+    "birth_year": 1999,
+    "path": "data/people/p_v_r_gopalakrishnan.json"
+  },
+  {
     "id": "p_v_ravichandran",
     "name": "V. Ravichandran",
     "birth_year": 1961,
@@ -3402,6 +3408,12 @@
     "path": "data/people/p_valgeir_gujonsson.json"
   },
   {
+    "id": "p_valgeir_sigursson",
+    "name": "Valgeir Sigurðsson",
+    "birth_year": 1970,
+    "path": "data/people/p_valgeir_sigursson.json"
+  },
+  {
     "id": "p_vali_daniel",
     "name": "Vali Dániel",
     "birth_year": 1943,
@@ -4918,6 +4930,12 @@
     "path": "data/people/p_varsha_usgaonkar.json"
   },
   {
+    "id": "p_vartan_sahakian",
+    "name": "Vartan Sahakian",
+    "birth_year": 1957,
+    "path": "data/people/p_vartan_sahakian.json"
+  },
+  {
     "id": "p_vartika_singh",
     "name": "Vartika Singh",
     "birth_year": 1991,
@@ -5896,6 +5914,12 @@
     "path": "data/people/p_vei_fan_li.json"
   },
   {
+    "id": "p_veigar_margeirsson",
+    "name": "Veigar Margeirsson",
+    "birth_year": 1972,
+    "path": "data/people/p_veigar_margeirsson.json"
+  },
+  {
     "id": "p_veikka_huttunen",
     "name": "Veikka Huttunen",
     "path": "data/people/p_veikka_huttunen.json"
@@ -6093,6 +6117,12 @@
     "name": "Velraj",
     "birth_year": 1969,
     "path": "data/people/p_velraj.json"
+  },
+  {
+    "id": "p_velton_ray_bunch",
+    "name": "Velton Ray Bunch",
+    "birth_year": 1948,
+    "path": "data/people/p_velton_ray_bunch.json"
   },
   {
     "id": "p_velu_prabhakaran",
@@ -9108,6 +9138,12 @@
     "path": "data/people/p_victor_erice.json"
   },
   {
+    "id": "p_victor_erofeyev",
+    "name": "Victor Erofeyev",
+    "birth_year": 1947,
+    "path": "data/people/p_victor_erofeyev.json"
+  },
+  {
     "id": "p_victor_fabregas",
     "name": "Víctor Fábregas",
     "birth_year": 1970,
@@ -10960,6 +10996,12 @@
     "name": "Vijay Yeshudas",
     "birth_year": 1979,
     "path": "data/people/p_vijay_yeshudas.json"
+  },
+  {
+    "id": "p_vijaya_bhaskar",
+    "name": "Vijaya Bhaskar",
+    "birth_year": 1930,
+    "path": "data/people/p_vijaya_bhaskar.json"
   },
   {
     "id": "p_vijaya_nandasiri",
@@ -17537,6 +17579,12 @@
     "path": "data/people/p_vladimir_bogdanov.json"
   },
   {
+    "id": "p_vladimir_bogomolov",
+    "name": "Vladimir Bogomolov",
+    "birth_year": 1924,
+    "path": "data/people/p_vladimir_bogomolov.json"
+  },
+  {
     "id": "p_vladimir_bolshov",
     "name": "Vladimir Bolshov",
     "birth_year": 1958,
@@ -17559,6 +17607,12 @@
     "name": "Vladimír Brabec",
     "birth_year": 1934,
     "path": "data/people/p_vladimir_brabec.json"
+  },
+  {
+    "id": "p_vladimir_bragin",
+    "name": "Vladimir Bragin",
+    "birth_year": 1961,
+    "path": "data/people/p_vladimir_bragin.json"
   },
   {
     "id": "p_vladimir_brichta",
@@ -20053,6 +20107,12 @@
     "path": "data/people/p_vratislav_slajer.json"
   },
   {
+    "id": "p_vratislav_sramek",
+    "name": "Vratislav Šrámek",
+    "birth_year": 1962,
+    "path": "data/people/p_vratislav_sramek.json"
+  },
+  {
     "id": "p_vreneli_van_helbergen",
     "name": "Vreneli van Helbergen",
     "birth_year": 1987,
@@ -20144,6 +20204,12 @@
     "id": "p_vu_nguyen_viet_linh",
     "name": "Vu Nguyen Viet Linh",
     "path": "data/people/p_vu_nguyen_viet_linh.json"
+  },
+  {
+    "id": "p_vu_thao",
+    "name": "Vũ Thảo",
+    "birth_year": 1944,
+    "path": "data/people/p_vu_thao.json"
   },
   {
     "id": "p_vu_tien_tung",
