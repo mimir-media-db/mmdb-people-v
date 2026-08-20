@@ -34,6 +34,12 @@
     "path": "data/people/p_v_d_rajappan.json"
   },
   {
+    "id": "p_v_dhananjay_kumar",
+    "name": "V. Dhananjay Kumar",
+    "birth_year": 1951,
+    "path": "data/people/p_v_dhananjay_kumar.json"
+  },
+  {
     "id": "p_v_gowthaman",
     "name": "V. Gowthaman",
     "path": "data/people/p_v_gowthaman.json"
@@ -807,6 +813,12 @@
     "path": "data/people/p_vadim_perelman.json"
   },
   {
+    "id": "p_vadim_samoylov",
+    "name": "Vadim Samoylov",
+    "birth_year": 1964,
+    "path": "data/people/p_vadim_samoylov.json"
+  },
+  {
     "id": "p_vadim_shmelyov",
     "name": "Vadim Shmelyov",
     "birth_year": 1967,
@@ -863,6 +875,11 @@
     "id": "p_vadym_lialko",
     "name": "Vadym Lialko",
     "path": "data/people/p_vadym_lialko.json"
+  },
+  {
+    "id": "p_vadym_shynkaryoyv",
+    "name": "Vadym Shynkaryoyv",
+    "path": "data/people/p_vadym_shynkaryoyv.json"
   },
   {
     "id": "p_vadym_voroshylov",
@@ -4349,6 +4366,12 @@
     "path": "data/people/p_vanessa_szamuhelova.json"
   },
   {
+    "id": "p_vanessa_taylor",
+    "name": "Vanessa Taylor",
+    "birth_year": 1970,
+    "path": "data/people/p_vanessa_taylor.json"
+  },
+  {
     "id": "p_vanessa_torres",
     "name": "Vanessa Torres",
     "birth_year": 1986,
@@ -4421,6 +4444,12 @@
     "name": "Vanessa Zima",
     "birth_year": 1986,
     "path": "data/people/p_vanessa_zima.json"
+  },
+  {
+    "id": "p_vangelis",
+    "name": "Vangelis",
+    "birth_year": 1943,
+    "path": "data/people/p_vangelis.json"
   },
   {
     "id": "p_vangelis_alexandris",
@@ -6871,6 +6900,12 @@
     "path": "data/people/p_verena_kringe.json"
   },
   {
+    "id": "p_verena_marisa_schmidt",
+    "name": "Verena Marisa Schmidt",
+    "birth_year": 1983,
+    "path": "data/people/p_verena_marisa_schmidt.json"
+  },
+  {
     "id": "p_verena_paravel",
     "name": "Véréna Paravel",
     "birth_year": 1971,
@@ -6915,6 +6950,11 @@
     "id": "p_verity_hewlitt",
     "name": "Verity Hewlitt",
     "path": "data/people/p_verity_hewlitt.json"
+  },
+  {
+    "id": "p_verity_susman",
+    "name": "Verity Susman",
+    "path": "data/people/p_verity_susman.json"
   },
   {
     "id": "p_verka_serduchka",
@@ -7101,6 +7141,12 @@
     "name": "Veronica Falcón",
     "birth_year": 1966,
     "path": "data/people/p_veronica_falcon.json"
+  },
+  {
+    "id": "p_veronica_fernandez",
+    "name": "Verónica Fernández",
+    "birth_year": 1971,
+    "path": "data/people/p_veronica_fernandez.json"
   },
   {
     "id": "p_veronica_ferres",
@@ -7819,6 +7865,11 @@
     "path": "data/people/p_veronique_leysen.json"
   },
   {
+    "id": "p_veronique_lisi",
+    "name": "Véronique Lisi",
+    "path": "data/people/p_veronique_lisi.json"
+  },
+  {
     "id": "p_veronique_nordey",
     "name": "Véronique Nordey",
     "birth_year": 1939,
@@ -8472,6 +8523,11 @@
     "path": "data/people/p_vicentjosep_perez.json"
   },
   {
+    "id": "p_vichaya_vatanasapt",
+    "name": "Vichaya Vatanasapt",
+    "path": "data/people/p_vichaya_vatanasapt.json"
+  },
+  {
     "id": "p_vicki_chase",
     "name": "Vicki Chase",
     "birth_year": 1985,
@@ -8948,6 +9004,12 @@
     "path": "data/people/p_victor_cook.json"
   },
   {
+    "id": "p_victor_copytsko",
+    "name": "Victor Copytsko",
+    "birth_year": 1956,
+    "path": "data/people/p_victor_copytsko.json"
+  },
+  {
     "id": "p_victor_cruz",
     "name": "Victor Cruz",
     "birth_year": 1986,
@@ -9077,6 +9139,12 @@
     "name": "Victor Heredia",
     "birth_year": 1947,
     "path": "data/people/p_victor_heredia.json"
+  },
+  {
+    "id": "p_victor_hernandez_stumpfhauser",
+    "name": "Victor Hernández Stumpfhauser",
+    "birth_year": 1980,
+    "path": "data/people/p_victor_hernandez_stumpfhauser.json"
   },
   {
     "id": "p_victor_huang",
@@ -9452,6 +9520,12 @@
     "name": "Victor Relosa",
     "birth_year": 1998,
     "path": "data/people/p_victor_relosa.json"
+  },
+  {
+    "id": "p_victor_reyes",
+    "name": "Víctor Reyes",
+    "birth_year": 1962,
+    "path": "data/people/p_victor_reyes.json"
   },
   {
     "id": "p_victor_rivers",
@@ -10673,6 +10747,11 @@
     "path": "data/people/p_vijay_deverakonda.json"
   },
   {
+    "id": "p_vijay_ebenezer",
+    "name": "Vijay Ebenezer",
+    "path": "data/people/p_vijay_ebenezer.json"
+  },
+  {
     "id": "p_vijay_gokhale",
     "name": "Vijay Gokhale",
     "path": "data/people/p_vijay_gokhale.json"
@@ -10709,6 +10788,12 @@
     "name": "Vijay Kumar Konda",
     "birth_year": 1977,
     "path": "data/people/p_vijay_kumar_konda.json"
+  },
+  {
+    "id": "p_vijay_kumar_singh",
+    "name": "Vijay Kumar Singh",
+    "birth_year": 1950,
+    "path": "data/people/p_vijay_kumar_singh.json"
   },
   {
     "id": "p_vijay_lalwani",
@@ -11453,6 +11538,12 @@
     "name": "Viktor Lazlo",
     "birth_year": 1960,
     "path": "data/people/p_viktor_lazlo.json"
+  },
+  {
+    "id": "p_viktor_lebedev",
+    "name": "Viktor Lebedev",
+    "birth_year": 1935,
+    "path": "data/people/p_viktor_lebedev.json"
   },
   {
     "id": "p_viktor_limr",
@@ -12747,6 +12838,11 @@
     "path": "data/people/p_vincent_branchet.json"
   },
   {
+    "id": "p_vincent_cahay",
+    "name": "Vincent Cahay",
+    "path": "data/people/p_vincent_cahay.json"
+  },
+  {
     "id": "p_vincent_candela",
     "name": "Vincent Candela",
     "birth_year": 1973,
@@ -12840,6 +12936,12 @@
     "id": "p_vincent_de_coninck",
     "name": "Vincent De Coninck",
     "path": "data/people/p_vincent_de_coninck.json"
+  },
+  {
+    "id": "p_vincent_de_jesus",
+    "name": "Vincent de Jesus",
+    "birth_year": 1968,
+    "path": "data/people/p_vincent_de_jesus.json"
   },
   {
     "id": "p_vincent_de_paul",
@@ -13675,6 +13777,12 @@
     "path": "data/people/p_vincent_van_sande.json"
   },
   {
+    "id": "p_vincent_van_warmerdam",
+    "name": "Vincent van Warmerdam",
+    "birth_year": 1956,
+    "path": "data/people/p_vincent_van_warmerdam.json"
+  },
+  {
     "id": "p_vincent_vanhoutteghem",
     "name": "Vincent Vanhoutteghem",
     "path": "data/people/p_vincent_vanhoutteghem.json"
@@ -13770,6 +13878,12 @@
     "name": "Vincent-Guillaume Otis",
     "birth_year": 1978,
     "path": "data/people/p_vincentguillaume_otis.json"
+  },
+  {
+    "id": "p_vincentmarie_bouvot",
+    "name": "Vincent-Marie Bouvot",
+    "birth_year": 1963,
+    "path": "data/people/p_vincentmarie_bouvot.json"
   },
   {
     "id": "p_vincentoliver_noiseux",
@@ -14489,6 +14603,12 @@
     "path": "data/people/p_viola_von_der_burg.json"
   },
   {
+    "id": "p_viola_von_scarpatetti",
+    "name": "Viola von Scarpatetti",
+    "birth_year": 1986,
+    "path": "data/people/p_viola_von_scarpatetti.json"
+  },
+  {
     "id": "p_violaine_gillibert",
     "name": "Violaine Gillibert",
     "path": "data/people/p_violaine_gillibert.json"
@@ -14696,6 +14816,12 @@
     "id": "p_vipin_mohan",
     "name": "Vipin Mohan",
     "path": "data/people/p_vipin_mohan.json"
+  },
+  {
+    "id": "p_vipin_patwa",
+    "name": "Vipin Patwa",
+    "birth_year": 1982,
+    "path": "data/people/p_vipin_patwa.json"
   },
   {
     "id": "p_vipin_reshammiya",
@@ -15043,6 +15169,12 @@
     "path": "data/people/p_virginia_williams.json"
   },
   {
+    "id": "p_virginia_yague",
+    "name": "Virginia Yagüe",
+    "birth_year": 1973,
+    "path": "data/people/p_virginia_yague.json"
+  },
+  {
     "id": "p_virginie_brault",
     "name": "Virginie Brault",
     "path": "data/people/p_virginie_brault.json"
@@ -15307,6 +15439,11 @@
     "path": "data/people/p_vishal_bhardwaj.json"
   },
   {
+    "id": "p_vishal_chandrasekhar",
+    "name": "Vishal Chandrasekhar",
+    "path": "data/people/p_vishal_chandrasekhar.json"
+  },
+  {
     "id": "p_vishal_chaturvedi",
     "name": "Vishal Chaturvedi",
     "birth_year": 1977,
@@ -15390,6 +15527,12 @@
     "name": "Vishka Asayesh",
     "birth_year": 1972,
     "path": "data/people/p_vishka_asayesh.json"
+  },
+  {
+    "id": "p_vishnu_deva",
+    "name": "Vishnu Deva",
+    "birth_year": 1975,
+    "path": "data/people/p_vishnu_deva.json"
   },
   {
     "id": "p_vishnu_manchu",
@@ -16422,6 +16565,12 @@
     "path": "data/people/p_vivek_kumar.json"
   },
   {
+    "id": "p_vivek_maddala",
+    "name": "Vivek Maddala",
+    "birth_year": 1973,
+    "path": "data/people/p_vivek_maddala.json"
+  },
+  {
     "id": "p_vivek_mishra",
     "name": "Vivek Mishra",
     "birth_year": 1986,
@@ -17040,6 +17189,11 @@
     "path": "data/people/p_vjekoslav_katusin.json"
   },
   {
+    "id": "p_vjeran_salamon",
+    "name": "Vjeran Šalamon",
+    "path": "data/people/p_vjeran_salamon.json"
+  },
+  {
     "id": "p_vk_singh",
     "name": "V.K. Singh",
     "path": "data/people/p_vk_singh.json"
@@ -17407,6 +17561,12 @@
     "id": "p_vladimir_dantes",
     "name": "Vladimir Dantes",
     "path": "data/people/p_vladimir_dantes.json"
+  },
+  {
+    "id": "p_vladimir_dashkevich",
+    "name": "Vladimir Dashkevich",
+    "birth_year": 1934,
+    "path": "data/people/p_vladimir_dashkevich.json"
   },
   {
     "id": "p_vladimir_de_fontenay",
@@ -17879,6 +18039,12 @@
     "path": "data/people/p_vladimir_marek.json"
   },
   {
+    "id": "p_vladimir_martinka",
+    "name": "Vladimír Martinka",
+    "birth_year": 1976,
+    "path": "data/people/p_vladimir_martinka.json"
+  },
+  {
     "id": "p_vladimir_mashkov",
     "name": "Vladimir Mashkov",
     "birth_year": 1963,
@@ -17953,6 +18119,12 @@
     "name": "Vladimir Mishukov",
     "birth_year": 1969,
     "path": "data/people/p_vladimir_mishukov.json"
+  },
+  {
+    "id": "p_vladimir_moiseenko",
+    "name": "Vladimir Moiseenko",
+    "birth_year": 1963,
+    "path": "data/people/p_vladimir_moiseenko.json"
   },
   {
     "id": "p_vladimir_molodov",
