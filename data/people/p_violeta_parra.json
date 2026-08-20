@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_violeta_parra",
+  "name": "Violeta Parra",
+  "external_ids": {
+    "wikidata": "Q230499",
+    "imdb": "nm0663420"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1917,
+  "death_year": 1967
+}
