@@ -826,6 +826,12 @@
     "path": "data/people/p_vadim_lobanov.json"
   },
   {
+    "id": "p_vadim_mayevsky",
+    "name": "Vadim Mayevsky",
+    "birth_year": 1981,
+    "path": "data/people/p_vadim_mayevsky.json"
+  },
+  {
     "id": "p_vadim_michman",
     "name": "Vadim Michman",
     "birth_year": 1986,
@@ -927,6 +933,11 @@
     "id": "p_vadym_voroshylov",
     "name": "Vadym Voroshylov",
     "path": "data/people/p_vadym_voroshylov.json"
+  },
+  {
+    "id": "p_vadym_yermolenko",
+    "name": "Vadym Yermolenko",
+    "path": "data/people/p_vadym_yermolenko.json"
   },
   {
     "id": "p_vagif_kerimov",
@@ -1640,6 +1651,12 @@
     "path": "data/people/p_valentin_uritescu.json"
   },
   {
+    "id": "p_valentin_vasenkov",
+    "name": "Valentin Vasenkov",
+    "birth_year": 1953,
+    "path": "data/people/p_valentin_vasenkov.json"
+  },
+  {
     "id": "p_valentin_wessely",
     "name": "Valentin Wessely",
     "birth_year": 2004,
@@ -2298,6 +2315,11 @@
     "path": "data/people/p_valeria_golino.json"
   },
   {
+    "id": "p_valeria_kalchenko",
+    "name": "Valeria Kalchenko",
+    "path": "data/people/p_valeria_kalchenko.json"
+  },
+  {
     "id": "p_valeria_lois",
     "name": "Valeria Lois",
     "birth_year": 1973,
@@ -2608,6 +2630,12 @@
     "id": "p_valerie_dauteuil",
     "name": "Valérie d'Auteuil",
     "path": "data/people/p_valerie_dauteuil.json"
+  },
+  {
+    "id": "p_valerie_de_loof",
+    "name": "Valérie de Loof",
+    "birth_year": 1949,
+    "path": "data/people/p_valerie_de_loof.json"
   },
   {
     "id": "p_valerie_decobert",
@@ -3348,6 +3376,11 @@
     "name": "Valeriya Shkirando",
     "birth_year": 1988,
     "path": "data/people/p_valeriya_shkirando.json"
+  },
+  {
+    "id": "p_valeriya_vins",
+    "name": "Valeriya Vins",
+    "path": "data/people/p_valeriya_vins.json"
   },
   {
     "id": "p_valero_escolar",
@@ -4530,6 +4563,12 @@
     "name": "Vanessa Pilon",
     "birth_year": 1985,
     "path": "data/people/p_vanessa_pilon.json"
+  },
+  {
+    "id": "p_vanessa_portal",
+    "name": "Vanessa Portal",
+    "birth_year": 1972,
+    "path": "data/people/p_vanessa_portal.json"
   },
   {
     "id": "p_vanessa_przada",
@@ -7605,6 +7644,11 @@
     "path": "data/people/p_veronica_lazar.json"
   },
   {
+    "id": "p_veronica_lee",
+    "name": "Veronica Lee",
+    "path": "data/people/p_veronica_lee.json"
+  },
+  {
     "id": "p_veronica_llinas",
     "name": "Verónica Llinás",
     "birth_year": 1960,
@@ -10271,6 +10315,11 @@
     "path": "data/people/p_victoria_blaze.json"
   },
   {
+    "id": "p_victoria_bondar",
+    "name": "Victoria Bondar",
+    "path": "data/people/p_victoria_bondar.json"
+  },
+  {
     "id": "p_victoria_brazier",
     "name": "Victoria Brazier",
     "birth_year": 1973,
@@ -11645,6 +11694,12 @@
     "name": "Vik Sahay",
     "birth_year": 1971,
     "path": "data/people/p_vik_sahay.json"
+  },
+  {
+    "id": "p_vik_sharma",
+    "name": "Vik Sharma",
+    "birth_year": 1972,
+    "path": "data/people/p_vik_sharma.json"
   },
   {
     "id": "p_vika_kirchenbauer",
@@ -15848,6 +15903,11 @@
     "name": "Virginia Innocenti",
     "birth_year": 1966,
     "path": "data/people/p_virginia_innocenti.json"
+  },
+  {
+    "id": "p_virginia_kilbertus",
+    "name": "Virginia Kilbertus",
+    "path": "data/people/p_virginia_kilbertus.json"
   },
   {
     "id": "p_virginia_kull",
@@ -20805,6 +20865,11 @@
     "path": "data/people/p_volodimir_makarovich_necheporenko.json"
   },
   {
+    "id": "p_volodymyr_arenyev",
+    "name": "Volodymyr Arenyev",
+    "path": "data/people/p_volodymyr_arenyev.json"
+  },
+  {
     "id": "p_volodymyr_dantes",
     "name": "Volodymyr Dantes",
     "birth_year": 1988,
@@ -21458,6 +21523,11 @@
     "name": "Vyacheslav Zlatopolskiy",
     "birth_year": 1978,
     "path": "data/people/p_vyacheslav_zlatopolskiy.json"
+  },
+  {
+    "id": "p_vygintas_kisevicius",
+    "name": "Vygintas Kisevičius",
+    "path": "data/people/p_vygintas_kisevicius.json"
   },
   {
     "id": "p_vyoma_nandi",
