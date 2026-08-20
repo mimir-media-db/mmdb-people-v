@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vaiko_eplik",
+  "name": "Vaiko Eplik",
+  "external_ids": {
+    "wikidata": "Q2507476",
+    "imdb": "nm1595856"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1981
+}
