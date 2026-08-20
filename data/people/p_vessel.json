@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_vessel",
+  "name": "Vessel",
+  "external_ids": {
+    "wikidata": "Q86751623",
+    "imdb": "nm4554118"
+  },
+  "last_updated": "2026-08-20"
+}
