@@ -890,6 +890,12 @@
     "path": "data/people/p_vadym_ilkov.json"
   },
   {
+    "id": "p_vadym_khrapachov",
+    "name": "Vadym Khrapachov",
+    "birth_year": 1947,
+    "path": "data/people/p_vadym_khrapachov.json"
+  },
+  {
     "id": "p_vadym_lialko",
     "name": "Vadym Lialko",
     "path": "data/people/p_vadym_lialko.json"
@@ -3161,6 +3167,12 @@
     "path": "data/people/p_valeriy_syutkin.json"
   },
   {
+    "id": "p_valeriy_tishler",
+    "name": "Valeriy Tishler",
+    "birth_year": 1962,
+    "path": "data/people/p_valeriy_tishler.json"
+  },
+  {
     "id": "p_valeriy_yamburskiy",
     "name": "Valeriy Yamburskiy",
     "birth_year": 1968,
@@ -3382,6 +3394,12 @@
     "name": "Valery Yaryomenko",
     "birth_year": 1961,
     "path": "data/people/p_valery_yaryomenko.json"
+  },
+  {
+    "id": "p_valery_zalotukha",
+    "name": "Valery Zalotukha",
+    "birth_year": 1954,
+    "path": "data/people/p_valery_zalotukha.json"
   },
   {
     "id": "p_valery_zeitoun",
@@ -5168,6 +5186,12 @@
     "name": "Vasil Gyurov",
     "birth_year": 1965,
     "path": "data/people/p_vasil_gyurov.json"
+  },
+  {
+    "id": "p_vasil_hadzimanov",
+    "name": "Vasil Hadžimanov",
+    "birth_year": 1973,
+    "path": "data/people/p_vasil_hadzimanov.json"
   },
   {
     "id": "p_vasil_vasilevzueka",
@@ -10771,6 +10795,12 @@
     "path": "data/people/p_vigdis_eliesersdottir_hentze_bjrck.json"
   },
   {
+    "id": "p_vigdis_grimsdottir",
+    "name": "Vigdís Grímsdóttir",
+    "birth_year": 1953,
+    "path": "data/people/p_vigdis_grimsdottir.json"
+  },
+  {
     "id": "p_vigdis_gunnarsdottir",
     "name": "Vigdís Gunnarsdóttir",
     "birth_year": 1965,
@@ -13250,6 +13280,12 @@
     "name": "Vincent Dubois",
     "birth_year": 1964,
     "path": "data/people/p_vincent_dubois.json"
+  },
+  {
+    "id": "p_vincent_dumestre",
+    "name": "Vincent Dumestre",
+    "birth_year": 1968,
+    "path": "data/people/p_vincent_dumestre.json"
   },
   {
     "id": "p_vincent_e_mcdaniel",
@@ -15758,6 +15794,12 @@
     "path": "data/people/p_vishal_solanki.json"
   },
   {
+    "id": "p_vishal_taklani",
+    "name": "Vishal Taklani",
+    "birth_year": 1973,
+    "path": "data/people/p_vishal_taklani.json"
+  },
+  {
     "id": "p_vishal_vashishtha",
     "name": "Vishal Vashishtha",
     "birth_year": 1992,
@@ -17569,6 +17611,12 @@
     "path": "data/people/p_vladan_gajovic.json"
   },
   {
+    "id": "p_vladan_markovic",
+    "name": "Vladan Marković",
+    "birth_year": 1977,
+    "path": "data/people/p_vladan_markovic.json"
+  },
+  {
     "id": "p_vladan_martinec",
     "name": "Vladan Martinec",
     "path": "data/people/p_vladan_martinec.json"
@@ -18660,6 +18708,12 @@
     "name": "Vladimir Romanovsky",
     "birth_year": 1939,
     "path": "data/people/p_vladimir_romanovsky.json"
+  },
+  {
+    "id": "p_vladimir_roubal",
+    "name": "Vladimír Roubal",
+    "birth_year": 1965,
+    "path": "data/people/p_vladimir_roubal.json"
   },
   {
     "id": "p_vladimir_sadilek",
@@ -20654,6 +20708,12 @@
     "name": "Vytautas Landsbergis",
     "birth_year": 1932,
     "path": "data/people/p_vytautas_landsbergis.json"
+  },
+  {
+    "id": "p_vytautas_leistrumas",
+    "name": "Vytautas Leistrumas",
+    "birth_year": 1982,
+    "path": "data/people/p_vytautas_leistrumas.json"
   },
   {
     "id": "p_vytautas_paukste",
