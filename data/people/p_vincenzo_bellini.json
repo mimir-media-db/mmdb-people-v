@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_vincenzo_bellini",
+  "name": "Vincenzo Bellini",
+  "external_ids": {
+    "wikidata": "Q170209",
+    "imdb": "nm0069057"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1801,
+  "death_year": 1835
+}
