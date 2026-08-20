@@ -3249,6 +3249,12 @@
     "path": "data/people/p_valeriy_malikov.json"
   },
   {
+    "id": "p_valeriy_pecheykin",
+    "name": "Valeriy Pecheykin",
+    "birth_year": 1984,
+    "path": "data/people/p_valeriy_pecheykin.json"
+  },
+  {
     "id": "p_valeriy_pendrakovskiy",
     "name": "Valeriy Pendrakovskiy",
     "birth_year": 1951,
@@ -5783,6 +5789,11 @@
     "name": "Vasyl Mazur",
     "birth_year": 1955,
     "path": "data/people/p_vasyl_mazur.json"
+  },
+  {
+    "id": "p_vasyl_melnyk",
+    "name": "Vasyl Melnyk",
+    "path": "data/people/p_vasyl_melnyk.json"
   },
   {
     "id": "p_vasyl_moskalenko",
@@ -8339,6 +8350,11 @@
     "path": "data/people/p_vesa_makela.json"
   },
   {
+    "id": "p_vesa_makinen",
+    "name": "Vesa Mäkinen",
+    "path": "data/people/p_vesa_makinen.json"
+  },
+  {
     "id": "p_vesa_rajala",
     "name": "Vesa Rajala",
     "path": "data/people/p_vesa_rajala.json"
@@ -8359,6 +8375,12 @@
     "id": "p_vesamatti_mattsson",
     "name": "Vesa-Matti Mattsson",
     "path": "data/people/p_vesamatti_mattsson.json"
+  },
+  {
+    "id": "p_vesel_tsankov",
+    "name": "Vesel Tsankov",
+    "birth_year": 1963,
+    "path": "data/people/p_vesel_tsankov.json"
   },
   {
     "id": "p_vesela_babinova",
@@ -10605,6 +10627,12 @@
     "path": "data/people/p_victoria_stanton.json"
   },
   {
+    "id": "p_victoria_strouse",
+    "name": "Victoria Strouse",
+    "birth_year": 1972,
+    "path": "data/people/p_victoria_strouse.json"
+  },
+  {
     "id": "p_victoria_summer",
     "name": "Victoria Summer",
     "birth_year": 1981,
@@ -12547,6 +12575,12 @@
     "id": "p_viktorka_slajerova",
     "name": "Viktorka Šlajerová",
     "path": "data/people/p_viktorka_slajerova.json"
+  },
+  {
+    "id": "p_viky_sianipar",
+    "name": "Viky Sianipar",
+    "birth_year": 1976,
+    "path": "data/people/p_viky_sianipar.json"
   },
   {
     "id": "p_vilborg_halldorsdottir",
@@ -16183,6 +16217,12 @@
     "path": "data/people/p_vishnu_unnikrishnan.json"
   },
   {
+    "id": "p_vishnu_vijay",
+    "name": "Vishnu Vijay",
+    "birth_year": 1989,
+    "path": "data/people/p_vishnu_vijay.json"
+  },
+  {
     "id": "p_vishnu_vinay",
     "name": "Vishnu Vinay",
     "birth_year": 1987,
@@ -17273,6 +17313,12 @@
     "path": "data/people/p_vivek_rajgopal.json"
   },
   {
+    "id": "p_vivek_sagar",
+    "name": "Vivek Sagar",
+    "birth_year": 1988,
+    "path": "data/people/p_vivek_sagar.json"
+  },
+  {
     "id": "p_vivek_sharma",
     "name": "Vivek Sharma",
     "birth_year": 1969,
@@ -17329,6 +17375,12 @@
     "id": "p_vivi_stafford",
     "name": "Vivi Stafford",
     "path": "data/people/p_vivi_stafford.json"
+  },
+  {
+    "id": "p_vivi_vassileva",
+    "name": "Vivi Vassileva",
+    "birth_year": 1993,
+    "path": "data/people/p_vivi_vassileva.json"
   },
   {
     "id": "p_vivi_wahlstrom",
@@ -19178,6 +19230,12 @@
     "path": "data/people/p_vladimir_serov.json"
   },
   {
+    "id": "p_vladimir_sevela",
+    "name": "Vladimir Sevela",
+    "birth_year": 1965,
+    "path": "data/people/p_vladimir_sevela.json"
+  },
+  {
     "id": "p_vladimir_shakhrin",
     "name": "Vladimir Shakhrin",
     "birth_year": 1959,
@@ -19636,6 +19694,12 @@
     "name": "Vladislav Kotlyarsky",
     "birth_year": 1972,
     "path": "data/people/p_vladislav_kotlyarsky.json"
+  },
+  {
+    "id": "p_vladislav_kucik",
+    "name": "Vladislav Kučík",
+    "birth_year": 1957,
+    "path": "data/people/p_vladislav_kucik.json"
   },
   {
     "id": "p_vladislav_lantratov",
