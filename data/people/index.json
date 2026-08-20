@@ -34,6 +34,12 @@
     "path": "data/people/p_v_d_rajappan.json"
   },
   {
+    "id": "p_v_dakshinamoorthy",
+    "name": "V. Dakshinamoorthy",
+    "birth_year": 1919,
+    "path": "data/people/p_v_dakshinamoorthy.json"
+  },
+  {
     "id": "p_v_dhananjay_kumar",
     "name": "V. Dhananjay Kumar",
     "birth_year": 1951,
@@ -5782,6 +5788,12 @@
     "path": "data/people/p_vayalar_madhavan.json"
   },
   {
+    "id": "p_ve_handojo",
+    "name": "Ve Handojo",
+    "birth_year": 1975,
+    "path": "data/people/p_ve_handojo.json"
+  },
+  {
     "id": "p_veanne_cox",
     "name": "Veanne Cox",
     "birth_year": 1963,
@@ -11020,6 +11032,12 @@
     "path": "data/people/p_vijay_gutte.json"
   },
   {
+    "id": "p_vijay_iyer",
+    "name": "Vijay Iyer",
+    "birth_year": 1971,
+    "path": "data/people/p_vijay_iyer.json"
+  },
+  {
     "id": "p_vijay_jayapal",
     "name": "Vijay Jayapal",
     "path": "data/people/p_vijay_jayapal.json"
@@ -13114,6 +13132,11 @@
     "path": "data/people/p_vincent_barre.json"
   },
   {
+    "id": "p_vincent_barriere",
+    "name": "Vincent Barrière",
+    "path": "data/people/p_vincent_barriere.json"
+  },
+  {
     "id": "p_vincent_bellefleur",
     "name": "Vincent Bellefleur",
     "path": "data/people/p_vincent_bellefleur.json"
@@ -13932,6 +13955,12 @@
     "name": "Vincent Price",
     "birth_year": 1911,
     "path": "data/people/p_vincent_price.json"
+  },
+  {
+    "id": "p_vincent_ravalec",
+    "name": "Vincent Ravalec",
+    "birth_year": 1962,
+    "path": "data/people/p_vincent_ravalec.json"
   },
   {
     "id": "p_vincent_redetzki",
@@ -15073,6 +15102,11 @@
     "id": "p_violetta_dutchak",
     "name": "Violetta Dutchak",
     "path": "data/people/p_violetta_dutchak.json"
+  },
+  {
+    "id": "p_violetta_gatti",
+    "name": "Violetta Gatti",
+    "path": "data/people/p_violetta_gatti.json"
   },
   {
     "id": "p_violetta_grafin_tarnowska_bronner",
@@ -18047,6 +18081,12 @@
     "path": "data/people/p_vladimir_etush.json"
   },
   {
+    "id": "p_vladimir_fanta",
+    "name": "Vladimír Fanta",
+    "birth_year": 1965,
+    "path": "data/people/p_vladimir_fanta.json"
+  },
+  {
     "id": "p_vladimir_fatyanov",
     "name": "Vladimir Fatyanov",
     "birth_year": 1954,
@@ -18450,6 +18490,12 @@
     "name": "Vladimir Lyutskanov",
     "birth_year": 1959,
     "path": "data/people/p_vladimir_lyutskanov.json"
+  },
+  {
+    "id": "p_vladimir_makanin",
+    "name": "Vladimir Makanin",
+    "birth_year": 1937,
+    "path": "data/people/p_vladimir_makanin.json"
   },
   {
     "id": "p_vladimir_makeranets",
@@ -19074,6 +19120,12 @@
     "path": "data/people/p_vladimir_valutsky.json"
   },
   {
+    "id": "p_vladimir_vardunas",
+    "name": "Vladimir Vardunas",
+    "birth_year": 1957,
+    "path": "data/people/p_vladimir_vardunas.json"
+  },
+  {
     "id": "p_vladimir_vasilyev",
     "name": "Vladimir Vasilyev",
     "birth_year": 1967,
@@ -19361,6 +19413,12 @@
     "name": "Vladislav Šarišský",
     "birth_year": 1984,
     "path": "data/people/p_vladislav_sarissky.json"
+  },
+  {
+    "id": "p_vladislav_todorov",
+    "name": "Vladislav Todorov",
+    "birth_year": 1956,
+    "path": "data/people/p_vladislav_todorov.json"
   },
   {
     "id": "p_vladislav_tretiak",
@@ -20640,6 +20698,12 @@
     "path": "data/people/p_vuyolwethu_stevens.json"
   },
   {
+    "id": "p_vy_vincent_ngo",
+    "name": "Vy Vincent Ngo",
+    "birth_year": 1965,
+    "path": "data/people/p_vy_vincent_ngo.json"
+  },
+  {
     "id": "p_vyacheslav_alyoshechkin",
     "name": "Vyacheslav Alyoshechkin",
     "path": "data/people/p_vyacheslav_alyoshechkin.json"
@@ -20707,6 +20771,12 @@
     "name": "Vyacheslav Kirilichev",
     "birth_year": 1939,
     "path": "data/people/p_vyacheslav_kirilichev.json"
+  },
+  {
+    "id": "p_vyacheslav_leykin",
+    "name": "Vyacheslav Leykin",
+    "birth_year": 1937,
+    "path": "data/people/p_vyacheslav_leykin.json"
   },
   {
     "id": "p_vyacheslav_maksakov",
