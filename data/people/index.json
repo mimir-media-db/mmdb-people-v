@@ -617,6 +617,12 @@
     "path": "data/people/p_vaclav_sanda.json"
   },
   {
+    "id": "p_vaclav_sasek",
+    "name": "Václav Šašek",
+    "birth_year": 1933,
+    "path": "data/people/p_vaclav_sasek.json"
+  },
+  {
     "id": "p_vaclav_simacek",
     "name": "Václav Šimáček",
     "birth_year": 1973,
@@ -1084,6 +1090,12 @@
     "name": "Vaijanath Biradar",
     "birth_year": 1951,
     "path": "data/people/p_vaijanath_biradar.json"
+  },
+  {
+    "id": "p_vaiko_eplik",
+    "name": "Vaiko Eplik",
+    "birth_year": 1981,
+    "path": "data/people/p_vaiko_eplik.json"
   },
   {
     "id": "p_vail_bloom",
@@ -5499,6 +5511,12 @@
     "path": "data/people/p_vaso_patejdl.json"
   },
   {
+    "id": "p_vassiis_raisis",
+    "name": "Vassiis Raisis",
+    "birth_year": 1963,
+    "path": "data/people/p_vassiis_raisis.json"
+  },
+  {
     "id": "p_vassil_mihajlov",
     "name": "Vassil Mihajlov",
     "birth_year": 1938,
@@ -5698,6 +5716,12 @@
     "name": "Vaughan Sivell",
     "birth_year": 1975,
     "path": "data/people/p_vaughan_sivell.json"
+  },
+  {
+    "id": "p_vaughn_johnson",
+    "name": "Vaughn Johnson",
+    "birth_year": 1960,
+    "path": "data/people/p_vaughn_johnson.json"
   },
   {
     "id": "p_vaughn_juares",
@@ -13898,6 +13922,12 @@
     "path": "data/people/p_vincent_powell.json"
   },
   {
+    "id": "p_vincent_poymiro",
+    "name": "Vincent Poymiro",
+    "birth_year": 1952,
+    "path": "data/people/p_vincent_poymiro.json"
+  },
+  {
     "id": "p_vincent_price",
     "name": "Vincent Price",
     "birth_year": 1911,
@@ -16335,6 +16365,12 @@
     "path": "data/people/p_vitaly_moskalenko.json"
   },
   {
+    "id": "p_vitaly_okorokov",
+    "name": "Vitaly Okorokov",
+    "birth_year": 1962,
+    "path": "data/people/p_vitaly_okorokov.json"
+  },
+  {
     "id": "p_vitaly_pavlovitch",
     "name": "Vitaly Pavlovitch",
     "path": "data/people/p_vitaly_pavlovitch.json"
@@ -16566,6 +16602,12 @@
     "name": "Vittoria Scognamiglio",
     "birth_year": 1952,
     "path": "data/people/p_vittoria_scognamiglio.json"
+  },
+  {
+    "id": "p_vittorino_andreoli",
+    "name": "Vittorino Andreoli",
+    "birth_year": 1940,
+    "path": "data/people/p_vittorino_andreoli.json"
   },
   {
     "id": "p_vittorio_amandola",
@@ -17310,6 +17352,12 @@
     "name": "Viviane Yanogo",
     "birth_year": 1981,
     "path": "data/people/p_viviane_yanogo.json"
+  },
+  {
+    "id": "p_viviane_zingg",
+    "name": "Viviane Zingg",
+    "birth_year": 1952,
+    "path": "data/people/p_viviane_zingg.json"
   },
   {
     "id": "p_vivianne_banovits",
