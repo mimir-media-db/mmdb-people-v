@@ -3892,6 +3892,12 @@
     "path": "data/people/p_van_marten.json"
   },
   {
+    "id": "p_van_morrison",
+    "name": "Van Morrison",
+    "birth_year": 1945,
+    "path": "data/people/p_van_morrison.json"
+  },
+  {
     "id": "p_van_nhu_cuong",
     "name": "Văn Như Cương",
     "birth_year": 1936,
@@ -6403,6 +6409,11 @@
     "name": "Veli-Pekka Hänninen",
     "birth_year": 1999,
     "path": "data/people/p_velipekka_hanninen.json"
+  },
+  {
+    "id": "p_velislava_georgieva",
+    "name": "Velislava Georgieva",
+    "path": "data/people/p_velislava_georgieva.json"
   },
   {
     "id": "p_velizar_binev",
@@ -9722,6 +9733,11 @@
     "path": "data/people/p_victor_hugo_robles.json"
   },
   {
+    "id": "p_victor_huizar",
+    "name": "Victor Huizar",
+    "path": "data/people/p_victor_huizar.json"
+  },
+  {
     "id": "p_victor_ida",
     "name": "Victor Ida",
     "birth_year": 1933,
@@ -11112,6 +11128,11 @@
     "id": "p_viera_glevanakova",
     "name": "Viera Glevaňáková",
     "path": "data/people/p_viera_glevanakova.json"
+  },
+  {
+    "id": "p_viera_marinova",
+    "name": "Viera Marinová",
+    "path": "data/people/p_viera_marinova.json"
   },
   {
     "id": "p_viera_pavlikova",
@@ -15408,6 +15429,12 @@
     "path": "data/people/p_viola_sartoretto.json"
   },
   {
+    "id": "p_viola_schmidt",
+    "name": "Viola Schmidt",
+    "birth_year": 1989,
+    "path": "data/people/p_viola_schmidt.json"
+  },
+  {
     "id": "p_viola_shafik",
     "name": "Viola Shafik",
     "birth_year": 1961,
@@ -17390,6 +17417,12 @@
     "name": "Vivan Bhatena",
     "birth_year": 1978,
     "path": "data/people/p_vivan_bhatena.json"
+  },
+  {
+    "id": "p_vivan_bhatti",
+    "name": "Vivan Bhatti",
+    "birth_year": 1974,
+    "path": "data/people/p_vivan_bhatti.json"
   },
   {
     "id": "p_vivean_gray",
@@ -20457,6 +20490,12 @@
     "path": "data/people/p_vojislav_brajovic.json"
   },
   {
+    "id": "p_vojislav_nanovic",
+    "name": "Vojislav Nanovic",
+    "birth_year": 1922,
+    "path": "data/people/p_vojislav_nanovic.json"
+  },
+  {
     "id": "p_vojta_husa",
     "name": "Vojta Husa",
     "path": "data/people/p_vojta_husa.json"
@@ -20754,6 +20793,12 @@
     "name": "Volker Heymann",
     "birth_year": 1959,
     "path": "data/people/p_volker_heymann.json"
+  },
+  {
+    "id": "p_volker_klotzsch",
+    "name": "Volker Klotzsch",
+    "birth_year": 1983,
+    "path": "data/people/p_volker_klotzsch.json"
   },
   {
     "id": "p_volker_klupfel",
