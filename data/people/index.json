@@ -1110,6 +1110,12 @@
     "path": "data/people/p_vaiko_eplik.json"
   },
   {
+    "id": "p_vaikom_muhammad_basheer",
+    "name": "Vaikom Muhammad Basheer",
+    "birth_year": 1908,
+    "path": "data/people/p_vaikom_muhammad_basheer.json"
+  },
+  {
     "id": "p_vail_bloom",
     "name": "Vail Bloom",
     "birth_year": 1982,
@@ -3072,6 +3078,12 @@
     "name": "Valerio Binasco",
     "birth_year": 1965,
     "path": "data/people/p_valerio_binasco.json"
+  },
+  {
+    "id": "p_valerio_carboni",
+    "name": "Valerio Carboni",
+    "birth_year": 1980,
+    "path": "data/people/p_valerio_carboni.json"
   },
   {
     "id": "p_valerio_dannunzio",
@@ -5133,6 +5145,12 @@
     "name": "Varun Tej",
     "birth_year": 1990,
     "path": "data/people/p_varun_tej.json"
+  },
+  {
+    "id": "p_varun_unni",
+    "name": "Varun Unni",
+    "birth_year": 1989,
+    "path": "data/people/p_varun_unni.json"
   },
   {
     "id": "p_varun_v_sharma",
@@ -13317,6 +13335,12 @@
     "path": "data/people/p_vincent_branchet.json"
   },
   {
+    "id": "p_vincent_bugliosi",
+    "name": "Vincent Bugliosi",
+    "birth_year": 1934,
+    "path": "data/people/p_vincent_bugliosi.json"
+  },
+  {
     "id": "p_vincent_cahay",
     "name": "Vincent Cahay",
     "path": "data/people/p_vincent_cahay.json"
@@ -17139,6 +17163,12 @@
     "path": "data/people/p_vivek_kajaria.json"
   },
   {
+    "id": "p_vivek_kar",
+    "name": "Vivek Kar",
+    "birth_year": 1990,
+    "path": "data/people/p_vivek_kar.json"
+  },
+  {
     "id": "p_vivek_khatkar",
     "name": "Vivek Khatkar",
     "birth_year": 1986,
@@ -20726,6 +20756,12 @@
     "name": "Vsevolod Aravin",
     "birth_year": 1967,
     "path": "data/people/p_vsevolod_aravin.json"
+  },
+  {
+    "id": "p_vsevolod_benigsen",
+    "name": "Vsevolod Benigsen",
+    "birth_year": 1973,
+    "path": "data/people/p_vsevolod_benigsen.json"
   },
   {
     "id": "p_vsevolod_bobrov",
