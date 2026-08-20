@@ -3484,6 +3484,11 @@
     "path": "data/people/p_valluri_srinivasa_rao.json"
   },
   {
+    "id": "p_valmont",
+    "name": "Valmont",
+    "path": "data/people/p_valmont.json"
+  },
+  {
     "id": "p_valo_kortesmaki",
     "name": "Valo Kortesmäki",
     "path": "data/people/p_valo_kortesmaki.json"
@@ -4755,6 +4760,12 @@
     "path": "data/people/p_vappu_jurkka.json"
   },
   {
+    "id": "p_vaqif_smdoglu",
+    "name": "Vaqif Səmədoğlu",
+    "birth_year": 1939,
+    "path": "data/people/p_vaqif_smdoglu.json"
+  },
+  {
     "id": "p_vaqif_srifov",
     "name": "Vaqif Şərifov",
     "birth_year": 1943,
@@ -5303,6 +5314,12 @@
     "name": "Vasily Gorchakov",
     "birth_year": 1951,
     "path": "data/people/p_vasily_gorchakov.json"
+  },
+  {
+    "id": "p_vasily_grossman",
+    "name": "Vasily Grossman",
+    "birth_year": 1905,
+    "path": "data/people/p_vasily_grossman.json"
   },
   {
     "id": "p_vasily_holub",
@@ -7086,6 +7103,12 @@
     "path": "data/people/p_vernon_kay.json"
   },
   {
+    "id": "p_vernon_reid",
+    "name": "Vernon Reid",
+    "birth_year": 1958,
+    "path": "data/people/p_vernon_reid.json"
+  },
+  {
     "id": "p_vernon_wells",
     "name": "Vernon Wells",
     "birth_year": 1945,
@@ -8200,6 +8223,12 @@
     "path": "data/people/p_vettukili_prakash.json"
   },
   {
+    "id": "p_veturi_sundararama_murthy",
+    "name": "Veturi Sundararama Murthy",
+    "birth_year": 1936,
+    "path": "data/people/p_veturi_sundararama_murthy.json"
+  },
+  {
     "id": "p_veysel_turan",
     "name": "Veysel Turan",
     "birth_year": 1900,
@@ -8568,6 +8597,12 @@
     "id": "p_vicente_juarbe",
     "name": "Vicente Juarbe",
     "path": "data/people/p_vicente_juarbe.json"
+  },
+  {
+    "id": "p_vicente_lenero",
+    "name": "Vicente Leñero",
+    "birth_year": 1933,
+    "path": "data/people/p_vicente_lenero.json"
   },
   {
     "id": "p_vicente_penarrocha",
@@ -9086,6 +9121,12 @@
     "path": "data/people/p_victor_clavijo.json"
   },
   {
+    "id": "p_victor_colicchio",
+    "name": "Victor Colicchio",
+    "birth_year": 1953,
+    "path": "data/people/p_victor_colicchio.json"
+  },
+  {
     "id": "p_victor_cook",
     "name": "Victor Cook",
     "birth_year": 1959,
@@ -9491,6 +9532,12 @@
     "name": "Victor Norén",
     "birth_year": 1985,
     "path": "data/people/p_victor_noren.json"
+  },
+  {
+    "id": "p_victor_nubla",
+    "name": "Víctor Nubla",
+    "birth_year": 1956,
+    "path": "data/people/p_victor_nubla.json"
   },
   {
     "id": "p_victor_nunez",
@@ -11117,6 +11164,11 @@
     "path": "data/people/p_vijie.json"
   },
   {
+    "id": "p_vijila_sathyanand",
+    "name": "Vijila Sathyanand",
+    "path": "data/people/p_vijila_sathyanand.json"
+  },
+  {
     "id": "p_vijilesh_karayad",
     "name": "Vijilesh Karayad",
     "birth_year": 1987,
@@ -11690,6 +11742,12 @@
     "name": "Viktor Maurer",
     "birth_year": 1932,
     "path": "data/people/p_viktor_maurer.json"
+  },
+  {
+    "id": "p_viktor_merezhko",
+    "name": "Viktor Merezhko",
+    "birth_year": 1937,
+    "path": "data/people/p_viktor_merezhko.json"
   },
   {
     "id": "p_viktor_mikhaylov",
@@ -14046,6 +14104,12 @@
     "name": "Vincenzo Badolisani",
     "birth_year": 1957,
     "path": "data/people/p_vincenzo_badolisani.json"
+  },
+  {
+    "id": "p_vincenzo_bellini",
+    "name": "Vincenzo Bellini",
+    "birth_year": 1801,
+    "path": "data/people/p_vincenzo_bellini.json"
   },
   {
     "id": "p_vincenzo_bocciarelli",
@@ -19419,6 +19483,12 @@
     "path": "data/people/p_vlatko_dulic.json"
   },
   {
+    "id": "p_vlatko_stefanovski",
+    "name": "Vlatko Stefanovski",
+    "birth_year": 1957,
+    "path": "data/people/p_vlatko_stefanovski.json"
+  },
+  {
     "id": "p_vn_vasavan",
     "name": "V.N. Vasavan",
     "birth_year": 1953,
@@ -20346,6 +20416,12 @@
     "name": "Vyacheslav Butenko",
     "birth_year": 1942,
     "path": "data/people/p_vyacheslav_butenko.json"
+  },
+  {
+    "id": "p_vyacheslav_butusov",
+    "name": "Vyacheslav Butusov",
+    "birth_year": 1961,
+    "path": "data/people/p_vyacheslav_butusov.json"
   },
   {
     "id": "p_vyacheslav_chepurchenko",
