@@ -681,6 +681,12 @@
     "path": "data/people/p_vaclav_vondra.json"
   },
   {
+    "id": "p_vaclav_vondracek",
+    "name": "Václav Vondrácek",
+    "birth_year": 1963,
+    "path": "data/people/p_vaclav_vondracek.json"
+  },
+  {
     "id": "p_vaclav_vorlicek",
     "name": "Václav Vorlíček",
     "birth_year": 1930,
@@ -1440,6 +1446,12 @@
     "name": "Valentin Jeker",
     "birth_year": 1934,
     "path": "data/people/p_valentin_jeker.json"
+  },
+  {
+    "id": "p_valentin_kuik",
+    "name": "Valentin Kuik",
+    "birth_year": 1943,
+    "path": "data/people/p_valentin_kuik.json"
   },
   {
     "id": "p_valentin_merlet",
@@ -5668,6 +5680,12 @@
     "id": "p_vatche_boulghourjian",
     "name": "Vatche Boulghourjian",
     "path": "data/people/p_vatche_boulghourjian.json"
+  },
+  {
+    "id": "p_vath_koreshi",
+    "name": "Vath Koreshi",
+    "birth_year": 1936,
+    "path": "data/people/p_vath_koreshi.json"
   },
   {
     "id": "p_vatsal_sheth",
@@ -15147,6 +15165,12 @@
     "path": "data/people/p_vipul_gupta.json"
   },
   {
+    "id": "p_vipul_k_rawal",
+    "name": "Vipul K Rawal",
+    "birth_year": 1968,
+    "path": "data/people/p_vipul_k_rawal.json"
+  },
+  {
     "id": "p_vipul_mehta",
     "name": "Vipul Mehta",
     "birth_year": 1990,
@@ -17898,6 +17922,12 @@
     "path": "data/people/p_vladimir_dashkevich.json"
   },
   {
+    "id": "p_vladimir_davydenko",
+    "name": "Vladimir Davydenko",
+    "birth_year": 1953,
+    "path": "data/people/p_vladimir_davydenko.json"
+  },
+  {
     "id": "p_vladimir_de_fontenay",
     "name": "Vladimir de Fontenay",
     "birth_year": 1986,
@@ -18574,6 +18604,12 @@
     "name": "Vladimír Oktávec",
     "birth_year": 1951,
     "path": "data/people/p_vladimir_oktavec.json"
+  },
+  {
+    "id": "p_vladimir_osinsky",
+    "name": "Vladimir Osinsky",
+    "birth_year": 1962,
+    "path": "data/people/p_vladimir_osinsky.json"
   },
   {
     "id": "p_vladimir_pankov",
@@ -20491,6 +20527,12 @@
     "name": "Vusi Kunene",
     "birth_year": 1966,
     "path": "data/people/p_vusi_kunene.json"
+  },
+  {
+    "id": "p_vusi_mahlasela",
+    "name": "Vusi Mahlasela",
+    "birth_year": 1964,
+    "path": "data/people/p_vusi_mahlasela.json"
   },
   {
     "id": "p_vuslat_saracoglu",
