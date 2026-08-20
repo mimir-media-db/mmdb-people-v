@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_vanessa_portal",
+  "name": "Vanessa Portal",
+  "external_ids": {
+    "wikidata": "Q62274566",
+    "imdb": "nm4554522"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
