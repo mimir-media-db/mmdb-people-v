@@ -1220,6 +1220,12 @@
     "path": "data/people/p_vajen_van_den_bosch.json"
   },
   {
+    "id": "p_vajk_szente",
+    "name": "Vajk Szente",
+    "birth_year": 1981,
+    "path": "data/people/p_vajk_szente.json"
+  },
+  {
     "id": "p_vakhtang_jajanidze",
     "name": "Vakhtang Jajanidze",
     "birth_year": 1987,
@@ -2260,6 +2266,11 @@
     "name": "Valeria Correa",
     "birth_year": 1979,
     "path": "data/people/p_valeria_correa.json"
+  },
+  {
+    "id": "p_valeria_de_fraja",
+    "name": "Valeria De Fraja",
+    "path": "data/people/p_valeria_de_fraja.json"
   },
   {
     "id": "p_valeria_de_franciscis",
@@ -5092,6 +5103,12 @@
     "path": "data/people/p_varante_soudjian.json"
   },
   {
+    "id": "p_varda_kakon",
+    "name": "Varda Kakon",
+    "birth_year": 1952,
+    "path": "data/people/p_varda_kakon.json"
+  },
+  {
     "id": "p_vardaan_arora",
     "name": "Vardaan Arora",
     "birth_year": 1992,
@@ -5366,6 +5383,12 @@
     "name": "Vasay Chaudhry",
     "birth_year": 1981,
     "path": "data/people/p_vasay_chaudhry.json"
+  },
+  {
+    "id": "p_vasco_brondi",
+    "name": "Vasco Brondi",
+    "birth_year": 1984,
+    "path": "data/people/p_vasco_brondi.json"
   },
   {
     "id": "p_vasco_rossi",
@@ -7238,6 +7261,11 @@
     "path": "data/people/p_vera_spinetta.json"
   },
   {
+    "id": "p_vera_stareckova",
+    "name": "Věra Starečková",
+    "path": "data/people/p_vera_stareckova.json"
+  },
+  {
     "id": "p_vera_storozheva",
     "name": "Vera Storozheva",
     "birth_year": 1958,
@@ -7936,6 +7964,11 @@
     "id": "p_veronika_dvorakova",
     "name": "Veronika Dvořáková",
     "path": "data/people/p_veronika_dvorakova.json"
+  },
+  {
+    "id": "p_veronika_dvorska",
+    "name": "Veronika Dvorská",
+    "path": "data/people/p_veronika_dvorska.json"
   },
   {
     "id": "p_veronika_finkova",
@@ -9019,6 +9052,11 @@
     "path": "data/people/p_vicente_aranda.json"
   },
   {
+    "id": "p_vicente_arlandis",
+    "name": "Vicente Arlandis",
+    "path": "data/people/p_vicente_arlandis.json"
+  },
+  {
     "id": "p_vicente_castro",
     "name": "Vicente Castro",
     "path": "data/people/p_vicente_castro.json"
@@ -9652,6 +9690,12 @@
     "name": "Victor Erofeyev",
     "birth_year": 1947,
     "path": "data/people/p_victor_erofeyev.json"
+  },
+  {
+    "id": "p_victor_escribano_garcia",
+    "name": "Víctor Escribano García",
+    "birth_year": 1870,
+    "path": "data/people/p_victor_escribano_garcia.json"
   },
   {
     "id": "p_victor_fabregas",
@@ -14050,6 +14094,11 @@
     "id": "p_vincent_guilbert",
     "name": "Vincent Guilbert",
     "path": "data/people/p_vincent_guilbert.json"
+  },
+  {
+    "id": "p_vincent_guyon",
+    "name": "Vincent Guyon",
+    "path": "data/people/p_vincent_guyon.json"
   },
   {
     "id": "p_vincent_haquin",
@@ -19763,6 +19812,12 @@
     "path": "data/people/p_vladimir_t_gottwald.json"
   },
   {
+    "id": "p_vladimir_tabasevic",
+    "name": "Vladimir Tabašević",
+    "birth_year": 1986,
+    "path": "data/people/p_vladimir_tabasevic.json"
+  },
+  {
     "id": "p_vladimir_tintor",
     "name": "Vladimir Tintor",
     "birth_year": 1978,
@@ -20120,6 +20175,11 @@
     "name": "Vladislav Miller",
     "birth_year": 1999,
     "path": "data/people/p_vladislav_miller.json"
+  },
+  {
+    "id": "p_vladislav_mitsovski",
+    "name": "Vladislav Mitsovski",
+    "path": "data/people/p_vladislav_mitsovski.json"
   },
   {
     "id": "p_vladislav_plevcik",
