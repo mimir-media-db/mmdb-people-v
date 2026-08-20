@@ -2210,6 +2210,12 @@
     "path": "data/people/p_valeria_de_franciscis.json"
   },
   {
+    "id": "p_valeria_di_napoli",
+    "name": "Valeria Di Napoli",
+    "birth_year": 1981,
+    "path": "data/people/p_valeria_di_napoli.json"
+  },
+  {
     "id": "p_valeria_dobici",
     "name": "Valeria D'Obici",
     "birth_year": 1952,
@@ -2431,6 +2437,11 @@
     "name": "Valérie Baurens",
     "birth_year": 1969,
     "path": "data/people/p_valerie_baurens.json"
+  },
+  {
+    "id": "p_valerie_beaugrandchampagne",
+    "name": "Valérie Beaugrand-Champagne",
+    "path": "data/people/p_valerie_beaugrandchampagne.json"
   },
   {
     "id": "p_valerie_bel",
@@ -2976,6 +2987,12 @@
     "path": "data/people/p_valerie_zawadska.json"
   },
   {
+    "id": "p_valerie_zenatti",
+    "name": "Valérie Zenatti",
+    "birth_year": 1970,
+    "path": "data/people/p_valerie_zenatti.json"
+  },
+  {
     "id": "p_valerieanne_giscard_destaing",
     "name": "Valérie-Anne Giscard d'Estaing",
     "birth_year": 1952,
@@ -3162,6 +3179,12 @@
     "path": "data/people/p_valeriy_bebko.json"
   },
   {
+    "id": "p_valeriy_didyula",
+    "name": "Valeriy Didyula",
+    "birth_year": 1970,
+    "path": "data/people/p_valeriy_didyula.json"
+  },
+  {
     "id": "p_valeriy_grishko",
     "name": "Valeriy Grishko",
     "birth_year": 1951,
@@ -3195,6 +3218,12 @@
     "name": "Valeriy Pendrakovskiy",
     "birth_year": 1951,
     "path": "data/people/p_valeriy_pendrakovskiy.json"
+  },
+  {
+    "id": "p_valeriy_potapenko",
+    "name": "Valeriy Potapenko",
+    "birth_year": 1963,
+    "path": "data/people/p_valeriy_potapenko.json"
   },
   {
     "id": "p_valeriy_saharyan",
@@ -4548,6 +4577,12 @@
     "name": "Vanessa Virgin",
     "birth_year": 1983,
     "path": "data/people/p_vanessa_virgin.json"
+  },
+  {
+    "id": "p_vanessa_walder",
+    "name": "Vanessa Walder",
+    "birth_year": 1978,
+    "path": "data/people/p_vanessa_walder.json"
   },
   {
     "id": "p_vanessa_wieduwilt",
@@ -9167,6 +9202,12 @@
     "name": "Victor Belmondo",
     "birth_year": 1993,
     "path": "data/people/p_victor_belmondo.json"
+  },
+  {
+    "id": "p_victor_biglione",
+    "name": "Victor Biglione",
+    "birth_year": 1958,
+    "path": "data/people/p_victor_biglione.json"
   },
   {
     "id": "p_victor_bo",
@@ -14817,6 +14858,11 @@
     "path": "data/people/p_vinod_khanna.json"
   },
   {
+    "id": "p_vinod_khumbu",
+    "name": "Vinod Khumbu",
+    "path": "data/people/p_vinod_khumbu.json"
+  },
+  {
     "id": "p_vinod_kovoor",
     "name": "Vinod Kovoor",
     "path": "data/people/p_vinod_kovoor.json"
@@ -18733,6 +18779,12 @@
     "path": "data/people/p_vladimir_nemcok.json"
   },
   {
+    "id": "p_vladimir_nesterenko",
+    "name": "Vladimir Nesterenko",
+    "birth_year": 1964,
+    "path": "data/people/p_vladimir_nesterenko.json"
+  },
+  {
     "id": "p_vladimir_nevedrov",
     "name": "Vladimír Nevedrov",
     "path": "data/people/p_vladimir_nevedrov.json"
@@ -19168,6 +19220,12 @@
     "name": "Vladimir Turchinsky",
     "birth_year": 1963,
     "path": "data/people/p_vladimir_turchinsky.json"
+  },
+  {
+    "id": "p_vladimir_turner",
+    "name": "Vladimír Turner",
+    "birth_year": 1986,
+    "path": "data/people/p_vladimir_turner.json"
   },
   {
     "id": "p_vladimir_tymoshenko",
