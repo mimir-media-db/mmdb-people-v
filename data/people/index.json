@@ -1473,6 +1473,12 @@
     "path": "data/people/p_valentin_greutert.json"
   },
   {
+    "id": "p_valentin_hadjadj",
+    "name": "Valentin Hadjadj",
+    "birth_year": 1988,
+    "path": "data/people/p_valentin_hadjadj.json"
+  },
+  {
     "id": "p_valentin_hagg",
     "name": "Valentin Hagg",
     "birth_year": 2003,
@@ -3894,6 +3900,12 @@
     "path": "data/people/p_vana_pefani.json"
   },
   {
+    "id": "p_vanamali",
+    "name": "Vanamali",
+    "birth_year": 1974,
+    "path": "data/people/p_vanamali.json"
+  },
+  {
     "id": "p_vance_degeneres",
     "name": "Vance DeGeneres",
     "birth_year": 1954,
@@ -4189,6 +4201,11 @@
     "name": "Vanessa David",
     "birth_year": 1952,
     "path": "data/people/p_vanessa_david.json"
+  },
+  {
+    "id": "p_vanessa_davies",
+    "name": "Vanessa Davies",
+    "path": "data/people/p_vanessa_davies.json"
   },
   {
     "id": "p_vanessa_del_rio",
@@ -6082,6 +6099,12 @@
     "path": "data/people/p_veera_kemppi.json"
   },
   {
+    "id": "p_veera_salmi",
+    "name": "Veera Salmi",
+    "birth_year": 1976,
+    "path": "data/people/p_veera_salmi.json"
+  },
+  {
     "id": "p_veera_santhanam",
     "name": "Veera Santhanam",
     "path": "data/people/p_veera_santhanam.json"
@@ -7788,6 +7811,12 @@
     "path": "data/people/p_veronika_bromova.json"
   },
   {
+    "id": "p_veronika_cerna",
+    "name": "Veronika Černá",
+    "birth_year": 1984,
+    "path": "data/people/p_veronika_cerna.json"
+  },
+  {
     "id": "p_veronika_divisova",
     "name": "Veronika Divišová",
     "birth_year": 2003,
@@ -8485,6 +8514,12 @@
     "path": "data/people/p_vesta_tuckute.json"
   },
   {
+    "id": "p_vestards_simkus",
+    "name": "Vestards Šimkus",
+    "birth_year": 1984,
+    "path": "data/people/p_vestards_simkus.json"
+  },
+  {
     "id": "p_veth_rattana",
     "name": "Veth Rattana",
     "birth_year": 1985,
@@ -8821,6 +8856,12 @@
     "name": "Vicellous Reon Shannon",
     "birth_year": 1971,
     "path": "data/people/p_vicellous_reon_shannon.json"
+  },
+  {
+    "id": "p_vicenc_salvador_torres_guerola",
+    "name": "Vicenç Salvador Torres Guerola",
+    "birth_year": 1964,
+    "path": "data/people/p_vicenc_salvador_torres_guerola.json"
   },
   {
     "id": "p_vicent_monsonis_andreu",
@@ -9571,6 +9612,12 @@
     "id": "p_victor_haugen_kristiansen",
     "name": "Victor Haugen Kristiansen",
     "path": "data/people/p_victor_haugen_kristiansen.json"
+  },
+  {
+    "id": "p_victor_headley",
+    "name": "Victor Headley",
+    "birth_year": 1958,
+    "path": "data/people/p_victor_headley.json"
   },
   {
     "id": "p_victor_heredia",
@@ -11972,6 +12019,12 @@
     "path": "data/people/p_viktor_dyk.json"
   },
   {
+    "id": "p_viktor_ekrt",
+    "name": "Viktor Ekrt",
+    "birth_year": 1975,
+    "path": "data/people/p_viktor_ekrt.json"
+  },
+  {
     "id": "p_viktor_erek",
     "name": "Viktor Đerek",
     "birth_year": 2000,
@@ -12006,6 +12059,12 @@
     "path": "data/people/p_viktor_glushkov.json"
   },
   {
+    "id": "p_viktor_gres",
+    "name": "Viktor Gres",
+    "birth_year": 1939,
+    "path": "data/people/p_viktor_gres.json"
+  },
+  {
     "id": "p_viktor_gusev",
     "name": "Viktor Gusev",
     "birth_year": 1955,
@@ -12016,6 +12075,11 @@
     "name": "Viktor Gvozditsky",
     "birth_year": 1952,
     "path": "data/people/p_viktor_gvozditsky.json"
+  },
+  {
+    "id": "p_viktor_hazard",
+    "name": "Viktor Hazard",
+    "path": "data/people/p_viktor_hazard.json"
   },
   {
     "id": "p_viktor_hynek",
@@ -12738,6 +12802,12 @@
     "path": "data/people/p_viliam_dostal.json"
   },
   {
+    "id": "p_viliam_klimacek",
+    "name": "Viliam Klimáček",
+    "birth_year": 1958,
+    "path": "data/people/p_viliam_klimacek.json"
+  },
+  {
     "id": "p_vilis_daudzins",
     "name": "Vilis Daudziņš",
     "birth_year": 1970,
@@ -13430,6 +13500,12 @@
     "name": "Vincent Biron",
     "birth_year": 1983,
     "path": "data/people/p_vincent_biron.json"
+  },
+  {
+    "id": "p_vincent_blanchard",
+    "name": "Vincent Blanchard",
+    "birth_year": 1972,
+    "path": "data/people/p_vincent_blanchard.json"
   },
   {
     "id": "p_vincent_bolduc",
@@ -18710,6 +18786,12 @@
     "path": "data/people/p_vladimir_kolev.json"
   },
   {
+    "id": "p_vladimir_komarov",
+    "name": "Vladimir Komarov",
+    "birth_year": 1976,
+    "path": "data/people/p_vladimir_komarov.json"
+  },
+  {
     "id": "p_vladimir_korenev",
     "name": "Vladimir Korenev",
     "birth_year": 1940,
@@ -18732,6 +18814,11 @@
     "name": "Vladimir Kott",
     "birth_year": 1973,
     "path": "data/people/p_vladimir_kott.json"
+  },
+  {
+    "id": "p_vladimir_kovtsun",
+    "name": "Vladimir Kovtsun",
+    "path": "data/people/p_vladimir_kovtsun.json"
   },
   {
     "id": "p_vladimir_kozlov",
@@ -18784,6 +18871,11 @@
     "name": "Vladimír Kudla",
     "birth_year": 1947,
     "path": "data/people/p_vladimir_kudla.json"
+  },
+  {
+    "id": "p_vladimir_kudryavtsev",
+    "name": "Vladimir Kudryavtsev",
+    "path": "data/people/p_vladimir_kudryavtsev.json"
   },
   {
     "id": "p_vladimir_kulhavy",
@@ -18926,6 +19018,12 @@
     "name": "Vladimír Mečiar",
     "birth_year": 1942,
     "path": "data/people/p_vladimir_meciar.json"
+  },
+  {
+    "id": "p_vladimir_medinsky",
+    "name": "Vladimir Medinsky",
+    "birth_year": 1970,
+    "path": "data/people/p_vladimir_medinsky.json"
   },
   {
     "id": "p_vladimir_menshov",
@@ -19180,6 +19278,12 @@
     "name": "Vladimir Pozner",
     "birth_year": 1934,
     "path": "data/people/p_vladimir_pozner.json"
+  },
+  {
+    "id": "p_vladimir_presnyakov_jr",
+    "name": "Vladimir Presnyakov Jr",
+    "birth_year": 1968,
+    "path": "data/people/p_vladimir_presnyakov_jr.json"
   },
   {
     "id": "p_vladimir_prochazka",
