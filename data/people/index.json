@@ -3597,6 +3597,11 @@
     "path": "data/people/p_valluri_srinivasa_rao.json"
   },
   {
+    "id": "p_valmiki",
+    "name": "Valmiki",
+    "path": "data/people/p_valmiki.json"
+  },
+  {
     "id": "p_valmont",
     "name": "Valmont",
     "path": "data/people/p_valmont.json"
@@ -5893,6 +5898,11 @@
     "path": "data/people/p_ved_redic.json"
   },
   {
+    "id": "p_ved_shankar",
+    "name": "Ved Shankar",
+    "path": "data/people/p_ved_shankar.json"
+  },
+  {
     "id": "p_vedala_hemachandra",
     "name": "Vedala Hemachandra",
     "birth_year": 1988,
@@ -6085,6 +6095,11 @@
     "name": "Vegar Hoel",
     "birth_year": 1973,
     "path": "data/people/p_vegar_hoel.json"
+  },
+  {
+    "id": "p_vegard_skau_hansen",
+    "name": "Vegard Skau Hansen",
+    "path": "data/people/p_vegard_skau_hansen.json"
   },
   {
     "id": "p_vei_fan_li",
@@ -9601,6 +9616,12 @@
     "path": "data/people/p_victor_levin.json"
   },
   {
+    "id": "p_victor_lewissmith",
+    "name": "Victor Lewis-Smith",
+    "birth_year": 1957,
+    "path": "data/people/p_victor_lewissmith.json"
+  },
+  {
     "id": "p_victor_lopes",
     "name": "Victor Lopes",
     "path": "data/people/p_victor_lopes.json"
@@ -9776,6 +9797,12 @@
     "name": "Victor Pavlov",
     "birth_year": 1940,
     "path": "data/people/p_victor_pavlov.json"
+  },
+  {
+    "id": "p_victor_pelevin",
+    "name": "Victor Pelevin",
+    "birth_year": 1962,
+    "path": "data/people/p_victor_pelevin.json"
   },
   {
     "id": "p_victor_perez_raya",
@@ -13130,6 +13157,12 @@
     "path": "data/people/p_vince_offer.json"
   },
   {
+    "id": "p_vince_smith",
+    "name": "Vince Smith",
+    "birth_year": 1938,
+    "path": "data/people/p_vince_smith.json"
+  },
+  {
     "id": "p_vince_staples",
     "name": "Vince Staples",
     "birth_year": 1993,
@@ -15170,6 +15203,12 @@
     "path": "data/people/p_violeta_markovska.json"
   },
   {
+    "id": "p_violeta_parra",
+    "name": "Violeta Parra",
+    "birth_year": 1917,
+    "path": "data/people/p_violeta_parra.json"
+  },
+  {
     "id": "p_violeta_rebollo",
     "name": "Violeta Rebollo",
     "path": "data/people/p_violeta_rebollo.json"
@@ -16855,6 +16894,12 @@
     "name": "Vittorio Moroni",
     "birth_year": 1970,
     "path": "data/people/p_vittorio_moroni.json"
+  },
+  {
+    "id": "p_vittorio_nino_novarese",
+    "name": "Vittorio Nino Novarese",
+    "birth_year": 1907,
+    "path": "data/people/p_vittorio_nino_novarese.json"
   },
   {
     "id": "p_vittorio_rambaldi",
@@ -19563,6 +19608,12 @@
     "path": "data/people/p_vladislava_milosavljevic.json"
   },
   {
+    "id": "p_vladivojna_la_chia",
+    "name": "Vladivojna La Chia",
+    "birth_year": 1983,
+    "path": "data/people/p_vladivojna_la_chia.json"
+  },
+  {
     "id": "p_vladka_erbova",
     "name": "Vlaďka Erbová",
     "birth_year": 1981,
@@ -19663,6 +19714,12 @@
     "name": "Vladyslav Yama",
     "birth_year": 1982,
     "path": "data/people/p_vladyslav_yama.json"
+  },
+  {
+    "id": "p_vlas_parlapanides",
+    "name": "Vlas Parlapanides",
+    "birth_year": 1971,
+    "path": "data/people/p_vlas_parlapanides.json"
   },
   {
     "id": "p_vlasta",
@@ -19808,6 +19865,11 @@
     "name": "Vlastimil Kaňka",
     "birth_year": 2000,
     "path": "data/people/p_vlastimil_kanka.json"
+  },
+  {
+    "id": "p_vlastimil_mistrik",
+    "name": "Vlastimil Mistrík",
+    "path": "data/people/p_vlastimil_mistrik.json"
   },
   {
     "id": "p_vlastimil_parizek",
@@ -20960,6 +21022,12 @@
     "name": "Vyacheslav Razbegaev",
     "birth_year": 1965,
     "path": "data/people/p_vyacheslav_razbegaev.json"
+  },
+  {
+    "id": "p_vyacheslav_rogozhkin",
+    "name": "Vyacheslav Rogozhkin",
+    "birth_year": 1966,
+    "path": "data/people/p_vyacheslav_rogozhkin.json"
   },
   {
     "id": "p_vyacheslav_ross",
