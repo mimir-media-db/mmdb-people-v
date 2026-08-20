@@ -5253,6 +5253,12 @@
     "path": "data/people/p_vasil_binev.json"
   },
   {
+    "id": "p_vasil_bykau",
+    "name": "Vasil Bykaŭ",
+    "birth_year": 1924,
+    "path": "data/people/p_vasil_bykau.json"
+  },
+  {
     "id": "p_vasil_dimitrov",
     "name": "Vasil Dimitrov",
     "birth_year": 1934,
@@ -5438,6 +5444,12 @@
     "name": "Vasily Bochkaryov",
     "birth_year": 1942,
     "path": "data/people/p_vasily_bochkaryov.json"
+  },
+  {
+    "id": "p_vasily_filatov",
+    "name": "Vasily Filatov",
+    "birth_year": 1984,
+    "path": "data/people/p_vasily_filatov.json"
   },
   {
     "id": "p_vasily_gorchakov",
@@ -12421,6 +12433,12 @@
     "path": "data/people/p_viktorija_siaulyte.json"
   },
   {
+    "id": "p_viktorin_sulc",
+    "name": "Viktorín Šulc",
+    "birth_year": 1951,
+    "path": "data/people/p_viktorin_sulc.json"
+  },
+  {
     "id": "p_viktoriya_afyan",
     "name": "Viktoriya Afyan",
     "path": "data/people/p_viktoriya_afyan.json"
@@ -14995,6 +15013,11 @@
     "path": "data/people/p_vinsent_mettel.json"
   },
   {
+    "id": "p_vinu_abraham",
+    "name": "Vinu Abraham",
+    "path": "data/people/p_vinu_abraham.json"
+  },
+  {
     "id": "p_vinu_chakravarthy",
     "name": "Vinu Chakravarthy",
     "birth_year": 1945,
@@ -16373,6 +16396,12 @@
     "name": "Vitaliano Trevisan",
     "birth_year": 1960,
     "path": "data/people/p_vitaliano_trevisan.json"
+  },
+  {
+    "id": "p_vitalic",
+    "name": "Vitalic",
+    "birth_year": 1976,
+    "path": "data/people/p_vitalic.json"
   },
   {
     "id": "p_vitalii_azhnov",
@@ -20659,6 +20688,11 @@
     "path": "data/people/p_vratislav_hlavaty.json"
   },
   {
+    "id": "p_vratislav_kydlicek",
+    "name": "Vratislav Kydlíček",
+    "path": "data/people/p_vratislav_kydlicek.json"
+  },
+  {
     "id": "p_vratislav_randa",
     "name": "Vratislav Randa",
     "path": "data/people/p_vratislav_randa.json"
@@ -20893,6 +20927,11 @@
     "name": "Vuyolwethu Stevens",
     "birth_year": 1996,
     "path": "data/people/p_vuyolwethu_stevens.json"
+  },
+  {
+    "id": "p_vy_higginsen",
+    "name": "Vy Higginsen",
+    "path": "data/people/p_vy_higginsen.json"
   },
   {
     "id": "p_vy_vincent_ngo",
